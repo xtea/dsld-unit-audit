@@ -1,0 +1,27 @@
+```json
+{"serving_size": "2 Gummies", "servings_per_day_max": null, "rows": [
+{"name": "Calories", "quantity": 20, "unit": "Calories"},
+{"name": "Total Carbohydrate", "quantity": 5, "unit": "g"},
+{"name": "Total Sugars", "quantity": 4, "unit": "g"},
+{"name": "Vitamin A (as retinyl palmitate)", "quantity": 650, "unit": "mcg"},
+{"name": "Vitamin C (ascorbic acid)", "quantity": 60, "unit": "mg"},
+{"name": "Vitamin D (as cholecalciferol)", "quantity": 10, "unit": "mcg"},
+{"name": "Vitamin E (as d-alpha tocopheryl acetate)", "quantity": 10, "unit": "mg"},
+{"name": "Thiamin (as thiamin mononitrate)", "quantity": 0.35, "unit": "mg"},
+{"name": "Riboflavin", "quantity": 0.4, "unit": "mg"},
+{"name": "Niacin (as niacinamide)", "quantity": 3.5, "unit": "mg NE"},
+{"name": "Vitamin B6 (as pyridoxine hydrochloride)", "quantity": 0.5, "unit": "mg"},
+{"name": "Folate", "quantity": 600, "unit": "mcg DFE"},
+{"name": "Vitamin B12 (as cyanocobalamin)", "quantity": 2.6, "unit": "mcg"},
+{"name": "Biotin", "quantity": 35, "unit": "mcg"},
+{"name": "Pantothenic Acid (as D-calcium pantothenate)", "quantity": 1.75, "unit": "mg"},
+{"name": "Choline (as bitartrate)", "quantity": 25, "unit": "mg"},
+{"name": "Iodine (as potassium iodide)", "quantity": 150, "unit": "mcg"},
+{"name": "Zinc", "quantity": 2, "unit": "mg"},
+{"name": "Sodium", "quantity": 20, "unit": "mg"},
+{"name": "DHA (docosahexaenoic acid) from Plant Source (Schizochytrium sp.) oil", "quantity": 50, "unit": "mg"},
+{"name": "Orchard Fruits & Garden Veggies Blend", "quantity": 250, "unit": "mg"}
+]}
+```
+
+The image is only 596×214 pixels, so the panel text is very small. The values for thiamin, riboflavin, niacin, vitamin B6, zinc and the fruit and veggie blend are best guesses and may be wrong. I could not read them clearly.

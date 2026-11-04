@@ -1,0 +1,9 @@
+```json
+{"serving_size": "2 Gummies", "servings_per_day_max": 2, "rows": [
+{"name": "Calories", "quantity": 20, "unit": "Calories"},
+{"name": "Total Carbohydrate", "quantity": null, "unit": "g"},
+{"name": "Dietary Fiber", "quantity": 5, "unit": "g"},
+{"name": "Total Sugars", "quantity": null, "unit": "g"},
+{"name": "Vitamin D (as D3 Cholecalciferol)", "quantity": 25, "unit": "mcg"}
+]}
+```

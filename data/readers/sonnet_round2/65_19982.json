@@ -1,0 +1,3 @@
+The molybdenum amount is washed out by glare, so I can only partly read it. The row reads "Molybdenum (as sodium molybdate)", the unit looks like "mcg", and the % Daily Value looks like 6%. The number before "mcg" is unreadable. I estimated 4.5 from 6% of the older 75 mcg daily value, so treat it as a guess.
+
+{"printed_amount": 4.5, "printed_unit": "mcg", "printed_percent_dv": 6, "legible": false}

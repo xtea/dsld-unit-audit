@@ -1,0 +1,20 @@
+```json
+{"serving_size": "1 tablet and 1 soft gel", "servings_per_day_max": 1, "rows": [
+{"name": "Vitamin C (Ascorbic acid)", "quantity": 120, "unit": "mg"},
+{"name": "Calcium (Calcium citrate)", "quantity": 159, "unit": "mg"},
+{"name": "Iron (Carbonyl iron, ferrous gluconate)", "quantity": 90, "unit": "mg"},
+{"name": "Vitamin D3 (Cholecalciferol)", "quantity": 400, "unit": "IU"},
+{"name": "Vitamin E (dl-alpha tocopheryl acetate)", "quantity": 30, "unit": "IU"},
+{"name": "Thiamin (Vitamin B1)", "quantity": 3, "unit": "mg"},
+{"name": "Riboflavin (Vitamin B2)", "quantity": 3.4, "unit": "mg"},
+{"name": "Niacinamide (Vitamin B3)", "quantity": 20, "unit": "mg"},
+{"name": "Vitamin B6 (Pyridoxine HCl)", "quantity": 20, "unit": "mg"},
+{"name": "Folic Acid", "quantity": 1, "unit": "mg"},
+{"name": "Iodine (Potassium iodide)", "quantity": 150, "unit": "mcg"},
+{"name": "Zinc (Zinc oxide)", "quantity": 25, "unit": "mg"},
+{"name": "Copper (Cupric oxide)", "quantity": 2, "unit": "mg"},
+{"name": "Docusate Sodium", "quantity": 50, "unit": "mg"},
+{"name": "Docosahexaenoic Acid (DHA, 40% from 750 mg Algal Oil)", "quantity": 300, "unit": "mg"},
+{"name": "Eicosapentaenoic Acid (EPA)", "quantity": 0.75, "unit": "mg"}
+]}
+```

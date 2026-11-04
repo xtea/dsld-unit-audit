@@ -1,0 +1,3 @@
+{"printed_amount": 20, "printed_unit": "mg", "printed_percent_dv": null, "legible": false}
+
+The B6 row (Vitamin B6, Pyridoxine HCl) reads as 20 mg, but the image is low-resolution and blurry. I'm reasonably but not fully sure of the 20. The % Daily Value column is too small and blurred to read, so I left it null.

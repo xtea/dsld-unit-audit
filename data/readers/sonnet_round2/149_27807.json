@@ -1,0 +1,3 @@
+{"printed_amount": 75, "printed_unit": "mcg", "printed_percent_dv": 100, "legible": false}
+
+The label image is low resolution, so this reading is uncertain. The amount could be read as 72 or 75, and I chose 75 because it matches the standard 100% DV for molybdenum. The unit looks like "mcg", in line with the chromium row above it.

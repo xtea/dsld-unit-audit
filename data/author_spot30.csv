@@ -1,0 +1,31 @@
+key,category,final,printed_amount,printed_unit,printed_pct,note
+b219,DB_UNIT,DB_error,17.5,ml,25,已核对原始 PDF，硒行印“17.5ml”；标签单位本身异常，既不是库中的 mg，也不能擅自补成 mcg。
+b179,DB_UNIT,DB_error,375,mcg,42,Vitamin A 行印 375 mcg；库录为 mg。
+b22,DB_UNIT,DB_error,32.5,mcg,46.5,Selenium 行印 32.5 mcg；库录为 mg。
+b66,DB_UNIT,DB_error,99,mg,2,旋转放大后 Potassium 行印 99 mg；库录为 mcg。
+b79,DB_UNIT,DB_error,30,mg,"2,000",Thiamin 行印 30 mg；库录为 mcg。
+b126,DB_UNIT,DB_error,30,mg,2308,Riboflavin（vitamin B2）行印 30 mg；库录为 mcg。
+b162,DB_UNIT,DB_error,200,mcg,50,按 ≥4 岁、2 颗软糖右栏填写；2–3 岁、1 颗左栏为 100 mcg、50%。库对应右栏但单位录为 mg。
+a9,DB_UNIT,DB_error,1050,mcg,117,Vitamin A 行印 1050 mcg；库录为 mg。
+b36,DB_UNIT,DB_error,300,mcg,"1,000",Biotin 行印 300 mcg；库录为 mg。
+b88,DB_UNIT,DB_error,0.67,mg,34,每片 Manganese 印 0.67 mg；库录为 mcg。百分比表头为 %RDA，脚注注明 new 2009 values。
+a2,DB_UNIT,DB_error,60,mcg,50,Vitamin K-2 行印 60 mcg；库录为 mg。
+b188,DB_UNIT,DB_error,0.2,mg,12,放大后 Vitamin B6 行印 0.2 mg；库录为 mcg。
+b141,DB_UNIT,DB_error,1000,mcg,"16,667","正面和成分表均印 1000 mcg；成人及 ≥4 岁栏为 16,667%，孕期哺乳期栏为 12,500%。"
+b161,DB_UNIT,DB_error,125,mcg,625,D3 行印 125 mcg；50 milligrams 是产品每份重量，不是 D3 含量。
+b175,DB_UNIT,DB_error,100,mg,5000,Vitamin B6 行印 100 mg；库录为 mcg。
+b202,DB_UNIT,DB_error,35,mcg,29,Chromium 行印 35 mcg；库录为 mg。
+a27,DB_UNIT,DB_error,50,mcg,67,Molybdenum 行印 50 mcg；库录为 mg。
+b115,DB_UNIT,DB_error,7.5,mcg,50,按 2–3 岁、1 颗软糖栏填写，印 7.5 mcg（300 IU）、50%；≥4 岁、2 颗栏为 15 mcg（600 IU）、75%。
+b82,DB_UNIT,DB_error,50,mcg,167,Biotin 行印 50 mcg；库录为 mg。
+a11,DB_UNIT,DB_error,25,mcg,417,Vit B-12 行印 25 mcg；库录为 mg。
+b111,DB_UNIT,DB_error,400,mcg,100,Folic Acid 行印 400 mcg；库录为 mg。
+b198,DB_UNIT,DB_error,.475,mg,2,Niacin 原样印“.475 mg”；与 0.475 数值相同，库单位录为 mcg。
+b8,DB_UNIT,DB_error,5,mg,217,Manganese 行印 5 mg；库录为 mcg。
+b144,DB_UNIT,DB_error,50,mcg,250,"Vitamin D3 行印 50 mcg（2,000 IU）；库录为 mg。"
+b119,DB_UNIT,DB_error,5,mg,294,Vitamin B6 行印 5 mg；库录为 mcg。
+b205,DB_UNIT,DB_error,1000,mg,77,Calcium 行印 1000 mg；库录为 mcg。
+b40,DB_UNIT,DB_error,1,mg,43,Manganese 行印 1 mg；库录为 mcg。
+a43,DB_UNIT,DB_error,125,mg,31,放大后 Magnesium 行印 125 mg；库录为 mcg。
+b55,DB_UNIT,DB_error,410,mg,8,Nutrition Facts 底部 Potassium 行印 410 mg、8%；库录为 mcg。
+b201,DB_UNIT,DB_error,300,mg,333,图为组合装；对应的 Mega Men Sport Multivitamin 成分表中 Vitamin C 印 300 mg，份量为 2 片。

@@ -1,0 +1,135 @@
+{
+ "unit_1000x": {
+  "n": 300,
+  "sonnet-opus": {
+   "agree": 286,
+   "kappa": 0.881
+  },
+  "sonnet-gemini": {
+   "agree": 282,
+   "kappa": 0.844
+  },
+  "opus-gemini": {
+   "agree": 290,
+   "kappa": 0.917
+  },
+  "fleiss_kappa": 0.881,
+  "unanimous": 279,
+  "final": {
+   "DB_error": 220,
+   "label_misprint": 75,
+   "unresolved": 5
+  },
+  "db_share": [
+   220,
+   295,
+   0.7457627118644068,
+   0.6931333241674799,
+   0.7920735546606351
+  ],
+  "extrapolated": [
+   1103,
+   1187,
+   1261
+  ],
+  "sonnet_vs_majority": [
+   284,
+   295
+  ],
+  "opus_vs_majority": [
+   292,
+   295
+  ],
+  "gemini_vs_majority": [
+   290,
+   295
+  ]
+ },
+ "decimal_10x": {
+  "n": 100,
+  "sonnet-opus": {
+   "agree": 96,
+   "kappa": 0.92
+  },
+  "sonnet-gemini": {
+   "agree": 92,
+   "kappa": 0.839
+  },
+  "opus-gemini": {
+   "agree": 93,
+   "kappa": 0.857
+  },
+  "fleiss_kappa": 0.872,
+  "unanimous": 91,
+  "final": {
+   "label_misprint": 61,
+   "DB_error": 36,
+   "unresolved": 3
+  },
+  "db_share": [
+   36,
+   97,
+   0.3711340206185567,
+   0.2816222547757322,
+   0.47046418574088
+  ],
+  "extrapolated": [
+   378,
+   498,
+   631
+  ],
+  "sonnet_vs_majority": [
+   95,
+   97
+  ],
+  "opus_vs_majority": [
+   96,
+   97
+  ],
+  "gemini_vs_majority": [
+   94,
+   97
+  ]
+ },
+ "all": {
+  "n": 400,
+  "sonnet-opus": {
+   "agree": 382,
+   "kappa": 0.904
+  },
+  "sonnet-gemini": {
+   "agree": 374,
+   "kappa": 0.858
+  },
+  "opus-gemini": {
+   "agree": 383,
+   "kappa": 0.909
+  },
+  "fleiss_kappa": 0.89,
+  "unanimous": 370,
+  "final": {
+   "DB_error": 256,
+   "label_misprint": 136,
+   "unresolved": 8
+  },
+  "db_share": [
+   256,
+   392,
+   0.6530612244897959,
+   0.6046602632693254,
+   0.6984913003864397
+  ],
+  "sonnet_vs_majority": [
+   379,
+   392
+  ],
+  "opus_vs_majority": [
+   388,
+   392
+  ],
+  "gemini_vs_majority": [
+   384,
+   392
+  ]
+ }
+}

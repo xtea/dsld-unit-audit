@@ -1,0 +1,31 @@
+```json
+{"serving_size":"1 Tablet","servings_per_day_max":1,"rows":[
+{"name":"Vitamin A (as Retinyl Palmitate and 30% as beta carotene)","quantity":2250,"unit":"mcg RAE"},
+{"name":"Vitamin C (as Ascorbic Acid)","quantity":125,"unit":"mg"},
+{"name":"Vitamin D3 (as Cholecalciferol)","quantity":10,"unit":"mcg"},
+{"name":"Vitamin E (as d-alpha tocopheryl succinate)","quantity":88,"unit":"mg"},
+{"name":"Thiamine (Vitamin B1) (as Thiamine Mononitrate)","quantity":20,"unit":"mg"},
+{"name":"Riboflavin (Vitamin B2)","quantity":20,"unit":"mg"},
+{"name":"Niacin (as Niacinamide)","quantity":50,"unit":"mg NE"},
+{"name":"Vitamin B6 (as Pyridoxine HCl)","quantity":20,"unit":"mg"},
+{"name":"Folate (as folic acid 400 mcg)","quantity":666,"unit":"mcg DFE"},
+{"name":"Vitamin B12 (as Cyanocobalamin)","quantity":167,"unit":"mcg"},
+{"name":"Biotin","quantity":150,"unit":"mcg"},
+{"name":"Pantothenic Acid (as D-Calcium Pantothenate)","quantity":50,"unit":"mg"},
+{"name":"Choline (as Choline bitartrate)","quantity":50,"unit":"mg"},
+{"name":"Calcium (as Tricalcium and Dicalcium phosphate)","quantity":200,"unit":"mg"},
+{"name":"Phosphorus (as Tricalcium and Dicalcium phosphate)","quantity":120,"unit":"mg"},
+{"name":"Iodine (as Potassium Iodide)","quantity":150,"unit":"mcg"},
+{"name":"Magnesium (as Magnesium Oxide)","quantity":100,"unit":"mg"},
+{"name":"Zinc (as Zinc Sulfate)","quantity":15,"unit":"mg"},
+{"name":"Selenium (as Selenium Amino Acid Complex)","quantity":20,"unit":"mcg"},
+{"name":"Copper (as Copper Glycinate Chelate)","quantity":2,"unit":"mg"},
+{"name":"Manganese (as Manganese Sulfate)","quantity":3,"unit":"mg"},
+{"name":"Chromium (as Chromium Nicotinate Glycinate Chelate)","quantity":15,"unit":"mcg"},
+{"name":"Molybdenum (as Molybdenum Glycinate Chelate)","quantity":25,"unit":"mcg"},
+{"name":"Potassium (as Potassium chloride)","quantity":80,"unit":"mg"},
+{"name":"Boron (as Boron Citrate and Glycinate)","quantity":200,"unit":"mcg"},
+{"name":"Citrus Bioflavonoid Complex","quantity":25,"unit":"mg"},
+{"name":"Inositol","quantity":25,"unit":"mg"}
+]}
+```

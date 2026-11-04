@@ -1,0 +1,21 @@
+{"serving_size": "2 Capsules", "servings_per_day_max": 2, "rows": [
+{"name": "Calcium (from TRAACS calcium glycinate chelate)", "quantity": 117.5, "unit": "mg"},
+{"name": "Iron [from TRAACS Ferrochel (ferrous bisglycinate chelate)]", "quantity": 4, "unit": "mg"},
+{"name": "Phosphorus (from dicalcium phosphate)", "quantity": 27, "unit": "mg"},
+{"name": "Iodine (from kelp)", "quantity": 200, "unit": "mcg"},
+{"name": "Magnesium (from TRAACS magnesium lysyl glycinate chelate)", "quantity": 30, "unit": "mg"},
+{"name": "Zinc (from TRAACS zinc glycinate chelate)", "quantity": 15, "unit": "mg"},
+{"name": "Selenium (from Albion amino acid complex)", "quantity": 200, "unit": "mcg"},
+{"name": "Copper (from TRAACS copper glycinate chelate)", "quantity": 0.05, "unit": "mg"},
+{"name": "Manganese (from TRAACS manganese bisglycinate chelate)", "quantity": 0.56, "unit": "mg"},
+{"name": "Chromium (from TRAACS chromium nicotinate glycinate chelate)", "quantity": 12, "unit": "mcg"},
+{"name": "Molybdenum (from TRAACS molybdenum glycinate chelate)", "quantity": 12.5, "unit": "mcg"},
+{"name": "Potassium (Albion amino acid complex)", "quantity": 72, "unit": "mg"},
+{"name": "Horsetail Grass Stem Extract (Equisetum arvense) (standardized to 7% silica)", "quantity": 62, "unit": "mg"},
+{"name": "Chlorella (Chlorella vulgaris) (broken cell wall)", "quantity": 5, "unit": "mg"},
+{"name": "Amylase", "quantity": 3.32, "unit": "mg"},
+{"name": "Lipase", "quantity": 3.32, "unit": "mg"},
+{"name": "Protease", "quantity": 3.32, "unit": "mg"},
+{"name": "Vanadium (from TRAACS vanadium nicotinate glycinate chelate)", "quantity": 15, "unit": "mcg"},
+{"name": "Boron (from Albion bororganic glycine)", "quantity": 4, "unit": "mcg"}
+]}

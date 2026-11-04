@@ -1,0 +1,3 @@
+```json
+{"serving_size": "1 tablet", "servings_per_day_max": 6, "rows": [{"name": "Calcium (citrate)", "quantity": 150, "unit": "mg"}, {"name": "Magnesium (citrate)", "quantity": 75, "unit": "mg"}, {"name": "Zinc (citrate)", "quantity": 2.5, "unit": "mg"}, {"name": "Vitamin D3 (cholecalciferol)", "quantity": 100, "unit": "IU"}]}
+```

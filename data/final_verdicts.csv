@@ -1,0 +1,401 @@
+key,id,cls,name,amount,unit,pct,target,sonnet,opus,gemini,final,unanimous,majority
+a0,288139,unit_1000x,Zinc,13,mcg,100,Pregnant and Lactating,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a1,313418,unit_1000x,Vitamin E,21,mcg,140,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+a2,262352,unit_1000x,Vitamin K-2,60,mg,50,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a3,321985,unit_1000x,Vitamin B12,2,mg,83,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+a4,213452,unit_1000x,Iodine,53,mg,35,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+a5,298562,unit_1000x,Vitamin E,0.67,mcg,4,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+a6,273299,unit_1000x,Selenium,20,mg,36,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a7,178020,unit_1000x,Vitamin K-2,16.7,mg,14,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a8,323495,unit_1000x,Biotin,400,mg,1333,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a9,304930,unit_1000x,Vitamin A,1050,mg,117,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a10,69835,unit_1000x,Selenium,50,mg,71,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a11,251385,unit_1000x,Vitamin B12,25,mg,417,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a12,276846,unit_1000x,Chromium,100,mg,286,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a13,61988,unit_1000x,Thiamine,450,mg,30,Adults and children 4 or more years of age,label_misprint,label_misprint,DB_error,label_misprint,False,label_misprint
+a14,262878,unit_1000x,Pantothenic Acid,100,mcg,2000,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a15,2883,unit_1000x,Vitamin B6,38,mg,3,Adults and children 4 or more years of age,label_misprint,label_misprint,unresolved,label_misprint,False,label_misprint
+a16,262597,unit_1000x,Chromium,150,mg,125,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a17,302422,unit_1000x,Chromium,500,mg,1429,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a18,248129,unit_1000x,Vitamin B12,200,mg,8333,Adults and children 4 or more years of age,DB_error,label_misprint,DB_error,label_misprint,False,DB_error
+a19,271868,unit_1000x,Vitamin D,10,mg,50,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a20,51731,unit_1000x,Vitamin B12,3,mg,50,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a21,217950,unit_1000x,Potassium,55,mcg,2,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a22,21162,unit_1000x,Vitamin B6,0.1,mcg,4,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+a23,272447,unit_1000x,Vitamin D3,0.6,mg,3,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a24,203828,unit_1000x,Vitamin B12,200,mg,3333,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+a25,72101,unit_1000x,Selenium,1.25,mg,2,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a26,263498,unit_1000x,Vitamin K2,1600,mg,1333,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a27,255683,unit_1000x,Molybdenum,50,mg,67,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a28,27409,unit_1000x,Vitamin B12,50,mg,833,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a29,291443,unit_1000x,Vitamin A,450,mg,50,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a30,39306,unit_1000x,Vitamin B6,40,mcg,2000,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a31,327569,unit_1000x,Vitamin D3,10,mg,50,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a32,243759,unit_1000x,Chromium,35,mg,100,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+a33,184545,unit_1000x,Molybdenum,75,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a34,304128,unit_1000x,Thiamine,25,mcg,2083,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a35,270207,unit_1000x,Chromium,200,mg,571,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+a36,19673,unit_1000x,Chromium,800,mcg,2,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+a37,262188,unit_1000x,Iron,0.4,mcg,2,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a38,80604,unit_1000x,Vitamin A,1965,mg,218,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a39,47209,unit_1000x,Copper,88,mg,4,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a40,319031,unit_1000x,Vitamin B12,1000,mg,41667,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a41,5912,unit_1000x,Zinc,20,mcg,200,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+a42,8488,unit_1000x,Selenium,250,mg,357,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+a43,246585,unit_1000x,Magnesium,125,mcg,31,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a44,1884,unit_1000x,Magnesium,155,mcg,40,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+a45,277205,unit_1000x,Vitamin B5,10,mcg,200,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a46,286208,unit_1000x,Vitamin B12,500,mg,20833,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a47,317564,unit_1000x,Molybdenum,42,mg,93,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+a48,15140,unit_1000x,Vitamin B12,1000,mg,16667,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+a49,286397,unit_1000x,Vitamin D,2.5,mg,17,Children less than 4 years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b0,220091,unit_1000x,Vitamin B12,250,mg,10417,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b1,248995,unit_1000x,Vitamin C,200,mcg,333,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b2,243205,unit_1000x,Chromium,200,mg,570,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b3,220091,unit_1000x,Vitamin E,268,mcg,1787,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b4,241995,unit_1000x,Vitamin E,67,mcg,447,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b5,64675,unit_1000x,Vitamin B12,2,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b6,7857,unit_1000x,Biotin,1000,mg,333,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b7,36741,unit_1000x,Vitamin C,120,mcg,125,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b8,316413,unit_1000x,Manganese,5,mcg,217,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b9,211037,unit_1000x,Niacin,25,mcg,139,Pregnant and Lactating,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b10,247077,unit_1000x,Biotin,100,mg,33,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b11,312226,unit_1000x,Vitamin E,15,mcg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b12,242145,unit_1000x,Magnesium,50,mcg,12,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b13,325679,unit_1000x,Vitamin K,200,mg,167,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b14,316412,unit_1000x,Manganese,5,mcg,217,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b15,10248,unit_1000x,Vitamin B2,850,mg,50,Adults and children 4 or more years of age,DB_error,label_misprint,label_misprint,label_misprint,False,label_misprint
+b16,249990,unit_1000x,Vitamin D,1.25,mg,6,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b17,211785,unit_1000x,Vitamin B12,3000,mg,125000,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b18,285744,unit_1000x,Molybdenum,75,mg,167,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b19,221019,unit_1000x,Selenium,100,mg,182,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b20,333845,unit_1000x,Vitamin B12,0.6,mg,25,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b21,178217,unit_1000x,Molybdenum,37.5,mg,50,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b22,264259,unit_1000x,Selenium,32.5,mg,46.5,Pregnant and Lactating,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b23,177902,unit_1000x,Manganese,0.5,mcg,25,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b24,315052,unit_1000x,Vitamin D,50,mg,250,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b25,328931,unit_1000x,Calcium Pantothenate,400,mcg,30.77,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b26,207998,unit_1000x,Biotin,75,mg,25,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b27,248992,unit_1000x,Choline,10,mcg,2,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b28,210010,unit_1000x,Biotin,300,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b29,310214,unit_1000x,Vitamin E,1,mcg,5,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b30,258746,unit_1000x,Vitamin B12,45,mcg,2,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b31,250641,unit_1000x,Vitamin C,150,mcg,167,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b32,297866,unit_1000x,Vitamin B12,250,mg,10417,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b33,193269,unit_1000x,Pantothenic Acid,20,mcg,200,Adults and children 4 or more years of age,DB_error,label_misprint,label_misprint,label_misprint,False,label_misprint
+b34,82168,unit_1000x,Iodine,225,mg,150,Adults and children 4 or more years of age,DB_error,DB_error,label_misprint,label_misprint,False,DB_error
+b35,297988,unit_1000x,Vitamin E,15,mcg,100,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b36,265728,unit_1000x,Biotin,300,mg,1000,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b37,317077,unit_1000x,Riboflavin,0.325,mcg,25,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b38,242404,unit_1000x,Vitamin D,25,mg,125,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b39,303244,unit_1000x,Vitamin E,70,mcg,470,Adults and children 4 or more years of age,label_misprint,DB_error,DB_error,label_misprint,False,DB_error
+b40,237144,unit_1000x,Manganese,1,mcg,43,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b41,221314,unit_1000x,Pantothenic Acid,50,mcg,1000,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b42,316015,unit_1000x,Vitamin C,150,mcg,167,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b43,279715,unit_1000x,Calcium,333,mcg,26,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b44,270603,unit_1000x,Vitamin K2,50,mg,42,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b45,277235,unit_1000x,Vitamin B6,30,mcg,1500,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b46,319881,unit_1000x,Pantothenic Acid,100,mcg,2000,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b47,81879,unit_1000x,Selenium,100,mg,143,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b48,209214,unit_1000x,Potassium,87.5,mcg,2,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b49,273036,unit_1000x,Pantothenic Acid,5,mcg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b50,15889,unit_1000x,Biotin,300,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b51,66043,unit_1000x,Chromium,200,mg,167,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b52,338266,unit_1000x,Vitamin D,10,mg,50,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b53,265730,unit_1000x,Calcium,34,mcg,3,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b54,270893,unit_1000x,Vitamin B12,1000,mg,16667,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b55,262188,unit_1000x,Potassium,410,mcg,8,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b56,319840,unit_1000x,Vitamin B12,16,mg,667,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b57,269765,unit_1000x,Vitamin E,15,mcg,100,Adults and children 4 or more years of age,DB_error,label_misprint,label_misprint,label_misprint,False,label_misprint
+b58,12550,unit_1000x,Potassium,153,g,4,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b59,38566,unit_1000x,Vitamin B12,50,mg,833,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b60,6358,unit_1000x,Chromium,50,mg,42,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b61,205036,unit_1000x,Thiamine,75,mcg,6250,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b62,298374,unit_1000x,Vitamin E,15,mcg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b63,183889,unit_1000x,Pantothenic Acid,250,mcg,2500,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b64,272648,unit_1000x,Chromium,210,mg,600,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b65,19982,unit_1000x,Molybdenum,3.5,mg,5,Adults and children 4 or more years of age,unresolved,unresolved,unresolved,unresolved,True,unresolved
+b66,206778,unit_1000x,Potassium,99,mcg,2,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b67,272304,unit_1000x,Vitamin B12,500,mg,20833,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b68,264692,unit_1000x,Zinc,8,mcg,73,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b69,333880,unit_1000x,Chromium,100,mg,286,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b70,12551,unit_1000x,Potassium,153,g,4,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b71,276060,unit_1000x,Vitamin B12,10000,mcg,417,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b72,243726,unit_1000x,Vitamin B6,0.03,mcg,2,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b73,26166,unit_1000x,Vitamin B6,2,mcg,143,Children less than 4 years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b74,64821,unit_1000x,Chloride,72,mcg,2,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b75,246165,unit_1000x,Vitamin D,20,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b76,250600,unit_1000x,Riboflavin,2,mcg,118,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b77,27008,unit_1000x,Vitamin B12,50,mg,833,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b78,320781,unit_1000x,Selenium,55,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b79,3280,unit_1000x,Thiamine,30,mcg,2000,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b80,252951,unit_1000x,Vitamin B12,87,mcg,3,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b81,204810,unit_1000x,Vitamin E,15.8,mcg,105,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b82,328204,unit_1000x,Biotin,50,mg,167,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b83,69299,unit_1000x,Vitamin B12,1000,mcg,16.667,Adults and children 4 or more years of age,unresolved,unresolved,unresolved,unresolved,True,unresolved
+b84,7947,unit_1000x,Pantothenic Acid,20,mcg,200,Pregnant and Lactating,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b85,257632,unit_1000x,Vitamin D,5,mg,25,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b86,335386,unit_1000x,Iodine,50,mg,33,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b87,248001,unit_1000x,Vitamin E,20,mcg,133,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b88,40833,unit_1000x,Manganese,0.67,mcg,34,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b89,38918,unit_1000x,Chromium,200,mg,167,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b90,2052,unit_1000x,Folic Acid,200,mg,50,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b91,1946,unit_1000x,Vitamin C,60,g,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b92,45910,unit_1000x,Magnesium,40,mcg,10,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b93,228007,unit_1000x,Pantothenic Acid,50,mcg,1000,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b94,81748,unit_1000x,Iron,18,mcg,100,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b95,47099,unit_1000x,Vitamin B12,225,mg,3750,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b96,295516,unit_1000x,Vitamin B6,25,mcg,1471,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b97,1879,unit_1000x,Vitamin B12,160,mg,2666,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b98,34130,unit_1000x,Vitamin B12,100,mg,1666,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b99,9397,unit_1000x,Magnesium,190,mcg,48,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b100,2054,unit_1000x,Vitamin A,1.25,IU,25,Adults and children 4 or more years of age,unresolved,unresolved,unresolved,unresolved,True,unresolved
+b101,204266,unit_1000x,Vitamin D3,16.7,mg,83,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b102,275153,unit_1000x,Folic Acid,240,mg,60,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b103,5126,unit_1000x,Pantothenic Acid,300,mcg,3000,Adults and children 4 or more years of age,label_misprint,label_misprint,DB_error,label_misprint,False,label_misprint
+b104,81167,unit_1000x,Calcium,733,mcg,73,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b105,6975,unit_1000x,Phosphorous,20,mcg,2,Adults and children 4 or more years of age,DB_error,label_misprint,DB_error,label_misprint,False,DB_error
+b106,69733,unit_1000x,Niacin,500,mg,3,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b107,256964,unit_1000x,Vitamin C,60,mcg,67,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b108,258661,unit_1000x,Vitamin A,3.2,mcg RAE,356,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b109,29063,unit_1000x,Chromium,8.3,mg,7,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b110,41496,unit_1000x,Iodine,150,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b111,4328,unit_1000x,Folic Acid,400,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b112,3036,unit_1000x,Vitamin B6,61.5,mg,3.075,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b113,206305,unit_1000x,Biotin,300,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b114,332878,unit_1000x,Vitamin B12,15,mg,625,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b115,212200,unit_1000x,Vitamin D,7.5,mg,50,Children less than 4 years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b116,49547,unit_1000x,Biotin,1000,mg,333,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b117,247263,unit_1000x,Biotin,60,mg,40,Children less than 4 years of age,DB_error,label_misprint,label_misprint,label_misprint,False,label_misprint
+b118,258652,unit_1000x,Vitamin D3,13.5,mg,68,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b119,277605,unit_1000x,Vitamin B6,5,mcg,294,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b120,277703,unit_1000x,Biotin,6000,mg,20000,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b121,303100,unit_1000x,Vitamin D3,8,mg,40,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b122,308308,unit_1000x,Chromium,70,mg,200,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b123,267775,unit_1000x,Thiamine,0.3,mcg,25,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b124,233046,unit_1000x,Vitamin C,1.067,mg,1186,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b125,33335,unit_1000x,Chromium,25,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b126,288129,unit_1000x,Riboflavin,30,mcg,2308,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b127,251473,unit_1000x,Riboflavin,0.325,mcg,25,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b128,35355,unit_1000x,Molybdenum,75,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b129,328589,unit_1000x,Vitamin B12,33,mg,556,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b130,66609,unit_1000x,Chromium,200,mg,167,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b131,266528,unit_1000x,Iron,1.5,mcg,8,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b132,243811,unit_1000x,Iodine,150,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b133,242149,unit_1000x,Magnesium,50,mcg,12,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b134,71392,unit_1000x,Magnesium,20,mcg,5,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b135,223039,unit_1000x,Biotin,10,mg,20,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b136,202176,unit_1000x,Vitamin D,3.3,mg,17,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b137,307952,unit_1000x,Vitamin B1,38,mg,2,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b138,38402,unit_1000x,Vitamin B6,5,mcg,250,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b139,207699,unit_1000x,Vitamin B6,10.5,mcg,618,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b140,266133,unit_1000x,ChromeMate,160,mg,133,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b141,36676,unit_1000x,Vitamin B12,1000,mg,16667,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b142,261079,unit_1000x,Vitamin B12,12.5,mg,521,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b143,80196,unit_1000x,Vit. E,120,mcg,800,Adults and children 4 or more years of age,DB_error,label_misprint,label_misprint,label_misprint,False,label_misprint
+b144,248355,unit_1000x,Vitamin D3,50,mg,250,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b145,50162,unit_1000x,Iodine,67.5,mg,45,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b146,327719,unit_1000x,Pantothenic Acid,6.8,mcg,136,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b147,262694,unit_1000x,Vitamin B12,12.5,mg,521,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b148,331450,unit_1000x,Vitamin B12,2.6,mg,108,Adults and children 4 or more years of age,DB_error,label_misprint,label_misprint,label_misprint,False,label_misprint
+b149,27807,unit_1000x,Molybdenum,75,mg,100,Adults and children 4 or more years of age,unresolved,unresolved,DB_error,label_misprint,False,unresolved
+b150,49991,unit_1000x,Chromium,200,mg,167,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b151,252266,unit_1000x,Iron,9,mcg,50,Adults and children 4 or more years of age,DB_error,label_misprint,DB_error,label_misprint,False,DB_error
+b152,29655,unit_1000x,Pantothenic Acid,20,mcg,200,Pregnant and Lactating,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b153,303186,unit_1000x,Vitamin B12,87,mcg,3,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b154,323145,unit_1000x,Biotin,2000,mg,6667,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b155,304382,unit_1000x,Manganese,0.66,mcg,33,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b156,175077,unit_1000x,Pantothenic Acid,20,mcg,200,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b157,272547,unit_1000x,Riboflavin,40,mcg,3077,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b158,69584,unit_1000x,Iodine,150,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b159,256373,unit_1000x,Pantothenic Acid,10,mcg,200,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b160,230256,unit_1000x,Biotin,5000,mcg,16.6,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b161,252786,unit_1000x,Vitamin D3,125,mg,625,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b162,273629,unit_1000x,Folic Acid,200,mg,50,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b163,9420,unit_1000x,Pantothenic Acid,38,mcg,380,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b164,185030,unit_1000x,Molybdenum,37.5,mg,83,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b165,273876,unit_1000x,Vitamin D,1.25,mg,6,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b166,37740,unit_1000x,Vitamin B12,500,mcg,8.333,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b167,29463,unit_1000x,Biotin,100,mg,33,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b168,295217,unit_1000x,Vitamin C,500,mcg,833,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b169,17096,unit_1000x,Selenium,70,mg,100,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b170,234770,unit_1000x,Vitamin E,14.4,mcg,96,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b171,323215,unit_1000x,Folate,19,mg,5,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b172,326006,unit_1000x,Potassium,140,mcg,3,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b173,304382,unit_1000x,Vitamin K1,10,mg,13.2,Adults and children 4 or more years of age,label_misprint,DB_error,DB_error,DB_error,False,DB_error
+b174,223005,unit_1000x,Vitamin C,300,mcg,375,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b175,49294,unit_1000x,Vitamin B6,100,mcg,5000,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b176,276385,unit_1000x,Vitamin B12,6,mg,250,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b177,223288,unit_1000x,Vitamin D3,10,mg,67,Pregnant and Lactating,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b178,288559,unit_1000x,Manganese,4.5,mcg,196,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b179,284995,unit_1000x,Vitamin A,375,mg,42,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b180,37741,unit_1000x,Vitamin B12,500,mcg,8.333,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b181,176426,unit_1000x,Vitamin B12,2,mg,83,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b182,19101,unit_1000x,Vitamin B6,2,mcg,100,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b183,223563,unit_1000x,Vitamin D3,100,mg,660,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b184,246201,unit_1000x,Iodine,37.5,mg,25,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b185,248663,unit_1000x,Vitamin B12,250,mg,10417,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b186,209562,unit_1000x,Folate,5,mcg DFE,1250,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b187,27287,unit_1000x,Calcium,750,mcg,75,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b188,333849,unit_1000x,Vitamin B6,0.2,mcg,12,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b189,49989,unit_1000x,Chromium,20,mg,17,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b190,60388,unit_1000x,Iodine,36,mg,17,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b191,38848,unit_1000x,organic Folic Acid,340,mg,85,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b192,16861,unit_1000x,Molybdenum,56,mg,75,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b193,76632,unit_1000x,Selenium,225,mg,321,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b194,262784,unit_1000x,Selenium,25,mg,36,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b195,204857,unit_1000x,Biotin,5000,mg,16667,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b196,268728,unit_1000x,Chromium,120,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b197,239957,unit_1000x,Selenium,35,mg,30,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b198,42566,unit_1000x,Niacin,0.475,mcg,2,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b199,3216,unit_1000x,Molybdenum,100,mg,135,Adults and children 4 or more years of age,DB_error,label_misprint,label_misprint,label_misprint,False,label_misprint
+b200,319429,unit_1000x,Biotin,35,mg,117,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b201,210576,unit_1000x,Vitamin C,300,mcg,333,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b202,18989,unit_1000x,Chromium,35,mg,29,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b203,66380,unit_1000x,Magnesium,125,mcg,31,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b204,260671,unit_1000x,Chromium,150,mg,125,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b205,178368,unit_1000x,Calcium,1000,mcg,77,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b206,309215,unit_1000x,Vitamin E,33.5,mcg,223,Adults and children 4 or more years of age,DB_error,DB_error,label_misprint,label_misprint,False,DB_error
+b207,251492,unit_1000x,Iodine,150,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b208,180857,unit_1000x,Manganese,130,mg,7,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b209,263365,unit_1000x,Vitamin B12,0.5,mg,25,Infants,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b210,305099,unit_1000x,Calcium,150,mcg,12,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b211,7914,unit_1000x,Iron,0.4,g,2,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b212,237141,unit_1000x,Manganese,2,mcg,87,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b213,255886,unit_1000x,Vitamin B6,50,mcg,2941,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b214,31063,unit_1000x,Molybdenum,75,mg,100,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b215,244513,unit_1000x,Choline,40,mcg,8,Adults and children 4 or more years of age,DB_error,label_misprint,label_misprint,label_misprint,False,label_misprint
+b216,252108,unit_1000x,Vitamin E,13.5,mcg,90,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b217,65494,unit_1000x,Selenium,250,mg,357,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b218,79824,unit_1000x,Calcium,500,mcg,50,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b219,261150,unit_1000x,Selenium,17.5,mg,25,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b220,317080,unit_1000x,Thiamine,0.3,mcg,25,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b221,317076,unit_1000x,Thiamine,0.3,mcg,25,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b222,268959,unit_1000x,Folate,2000,mg,500,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b223,41428,unit_1000x,Iodine,150,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b224,41832,unit_1000x,Selenium,225,mg,321,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b225,179004,unit_1000x,Folic Acid,350,mg,88,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b226,316414,unit_1000x,Manganese,5,mcg,217,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b227,310234,unit_1000x,Folic Acid,240,mg,60,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b228,274824,unit_1000x,Biotin,700,mg,2333,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b229,264559,unit_1000x,Biotin,300,mg,1000,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b230,4363,unit_1000x,Manganese,10,mcg,500,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b231,14320,unit_1000x,Selenium,100,mg,143,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b232,299118,unit_1000x,Magnesium,80,mcg,19,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b233,247918,unit_1000x,Vitamin B12,500,mg,8333,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b234,278697,unit_1000x,Vitamin B12,12,mg,429,Pregnant and Lactating,unresolved,unresolved,DB_error,DB_error,False,unresolved
+b235,208947,unit_1000x,Vitamin E,13.4,mcg,89,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b236,27281,unit_1000x,Zinc,1.3,mcg,16,Children less than 4 years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b237,2489,unit_1000x,Thiamine,0.4,mcg,25,Adults and children 4 or more years of age,DB_error,label_misprint,label_misprint,label_misprint,False,label_misprint
+b238,623,unit_1000x,Vitamin B12,1,g,16667,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b239,80196,unit_1000x,Vit. K,65,mg,54,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b240,41228,unit_1000x,Manganese,0.67,mcg,34,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b241,38528,unit_1000x,Copper,1.5,mcg,75,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b242,3036,unit_1000x,Thiamine,60.8,mg,4.053,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b243,329942,unit_1000x,Vitamin B6,2.5,mcg,147,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b244,306134,unit_1000x,Vitamin E,201,mcg,1340,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b245,71300,unit_1000x,Vitamin K,47,mg,60,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b246,255463,unit_1000x,Vitamin D3,62.5,mg,312,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b247,259717,unit_1000x,Iron,2.5,mcg,13,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b248,65811,unit_1000x,Iron,18,mcg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b249,251244,unit_1000x,Vitamin D3,20,mg,133,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b250,260310,decimal_10x,Vitamin B-3,8,mg,4,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b251,298502,decimal_10x,Magnesium,100,mg,125,Children less than 4 years of age,label_misprint,label_misprint,DB_error,not_error,False,label_misprint
+b252,34124,decimal_10x,Folate,8000,mcg,200,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b253,294050,decimal_10x,Magnesium,20,mg,25,Children less than 4 years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b254,238778,decimal_10x,Vitamin B6,0.4,mg,133,Infants,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b255,15947,decimal_10x,Zinc,115,mg,153,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b256,38545,decimal_10x,Thiamine,15,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b257,201467,decimal_10x,Vitamin B12,0.4,mcg,100,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b258,335458,decimal_10x,Pantothenic Acid,50,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b259,181149,decimal_10x,Vitamin B12,200,mcg,333,Adults and children 4 or more years of age,label_misprint,label_misprint,DB_error,label_misprint,False,label_misprint
+b260,9908,decimal_10x,Calcium,240,mg,3,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b261,246453,decimal_10x,Vitamin B6,0.4,mg,133,Infants,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b262,263437,decimal_10x,Vitamin C,20,mg,2,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b263,35390,decimal_10x,Zinc,2,mg,2,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b264,306111,decimal_10x,Ferrous Bisglycinate Chelate,15.7,mg,17,Pregnant and Lactating,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b265,241419,decimal_10x,Magnesium,15,mg,19,Children less than 4 years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b266,228173,decimal_10x,Vitamin B2,21,mcg,16,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b267,274147,decimal_10x,Vitamin K2,45,mcg,368,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b268,177785,decimal_10x,Vitamin D,1000,IU,25,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b269,251088,decimal_10x,Vitamin B6,10,mg,50,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b270,220889,decimal_10x,Magnesium,4,mg,5,Children less than 4 years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b271,254912,decimal_10x,Vitamin E,1005,mg,670,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b272,1603,decimal_10x,Vitamin E,5,IU,100,Infants,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b273,245716,decimal_10x,Calcium,20,mg,13,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b274,70962,decimal_10x,Folate,120,mcg,300,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b275,174396,decimal_10x,Folate,50,mcg,63,Infants,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b276,1958,decimal_10x,Vitamin B6,20,mg,100,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b277,249615,decimal_10x,Magnesium,10,mg,13,Children less than 4 years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b278,19773,decimal_10x,Vitamin D3,4001,IU,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b279,205673,decimal_10x,Copper,13.2,mg,100,Pregnant and Lactating,unresolved,unresolved,DB_error,unresolved,False,unresolved
+b280,11251,decimal_10x,Calcium,200,mg,2,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b281,268889,decimal_10x,Chromium,120,mcg,10,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b282,261347,decimal_10x,Vitamin B6,8,mg,40,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b283,274961,decimal_10x,Magnesium Citrate,833,mg,28.96,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b284,203827,decimal_10x,Copper,1,mg,5,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b285,283094,decimal_10x,Vitamin D,125,mcg,62,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b286,33432,decimal_10x,Vitamin B6,40,mg,200,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b287,29928,decimal_10x,Thiamine,0.5,mg,5,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b288,249150,decimal_10x,Manganese,4,mg,17,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b289,329791,decimal_10x,Folate,400,mcg DFE,800,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b290,83118,decimal_10x,Manganese,133,mcg,68,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b291,4114,decimal_10x,Zinc,111,mg,73,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b292,36948,decimal_10x,Vitamin B12,6,mcg,10,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b293,24512,decimal_10x,Copper,1.5,mg,5,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b294,71714,decimal_10x,Vitamin A,1450,IU,180,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b295,270337,decimal_10x,Magnesium,5.5,mg,20,Adults and children 4 or more years of age,unresolved,unresolved,DB_error,unresolved,False,unresolved
+b296,296618,decimal_10x,Vitamin D3,188,mcg,90,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b297,49838,decimal_10x,Magnesium,5,mg,7,Children less than 4 years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b298,5914,decimal_10x,Potassium,10,mg,5,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b299,210072,decimal_10x,Iron,360,mcg,20,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b300,247918,decimal_10x,Vitamin B6,75,mg,375,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b301,19619,decimal_10x,Zinc,10,mg,13,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b302,204730,decimal_10x,Magnesium,10,mg,13,Adults and children 4 or more years of age,DB_error,label_misprint,label_misprint,column_or_serving,False,label_misprint
+b303,332883,decimal_10x,Magnesium,6.3,mg,8,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b304,4982,decimal_10x,Vitamin E,5,IU,100,Infants,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b305,311944,decimal_10x,Biotin,10000,mcg,333330,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b306,283203,decimal_10x,Magnesium,10,mg,13,Children less than 4 years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b307,64333,decimal_10x,Vitamin C,200,mg,3333,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b308,267344,decimal_10x,Zinc,90,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b309,247753,decimal_10x,Thiamine,1.5,mg,10,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b310,37087,decimal_10x,Folic Acid,1,mg,20,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b311,178319,decimal_10x,Magnesium,30,mg,43,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b312,259064,decimal_10x,Vitamin D3,1.6,mg,400,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b313,263348,decimal_10x,Vitamin D,40,IU,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b314,203028,decimal_10x,D-Biotin,150,mcg,5,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b315,80149,decimal_10x,Vitamin B6,350,mg,1250,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b316,239971,decimal_10x,Magnesium,50,mg,63,Children less than 4 years of age,label_misprint,DB_error,label_misprint,not_error,False,label_misprint
+b317,45680,decimal_10x,Chromium,200,mcg,12,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b318,241419,decimal_10x,Vitamin B6,1,mg,333,Infants,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b319,278336,decimal_10x,Magnesium,20,mg,25,Children less than 4 years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b320,304155,decimal_10x,Folate,800,mcg,20,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b321,30355,decimal_10x,Calcium Orotate,1100,mg,12,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b322,63388,decimal_10x,Pantothenic Acid,500,mg,500,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b323,298859,decimal_10x,Magnesium,75,mg,94,Children less than 4 years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b324,315926,decimal_10x,Vitamin D,10,mcg,5,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b325,29071,decimal_10x,Magnesium,2.4,mg,9.06,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b326,311330,decimal_10x,Potassium,20,mg,6,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b327,206749,decimal_10x,Vitamin B6,20,mg,200,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b328,256009,decimal_10x,Riboflavin,5,mg,2059,Adults and children 4 or more years of age,label_misprint,label_misprint,DB_error,label_misprint,False,label_misprint
+b329,249371,decimal_10x,Vitamin B1,15,mg,100,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b330,261841,decimal_10x,Vitamin B6,100,mg,500,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b331,5563,decimal_10x,Magnesium,50,mg,2,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b332,2499,decimal_10x,Vitamin K,20,mg,1000,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b333,8986,decimal_10x,Vitamin E,2.01,mg,93,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b334,252015,decimal_10x,Vitamin B6,50,mcg,37,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b335,277297,decimal_10x,Molybdenum,15,mcg,3,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b336,21132,decimal_10x,Potassium,90,mg,14,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b337,251829,decimal_10x,Vitamin B6,20,mg,100,Adults and children 4 or more years of age,unresolved,label_misprint,DB_error,unresolved,False,unresolved
+b338,222830,decimal_10x,Calcium,7228,mg,70,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b339,181686,decimal_10x,Folate,266,mcg,667,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b340,223197,decimal_10x,Biotin,10,mg,333333,Adults and children 4 or more years of age,DB_error,label_misprint,label_misprint,label_misprint,False,label_misprint
+b341,20781,decimal_10x,Vitamin D,19,IU,35,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b342,264517,decimal_10x,Choline,600,mg,16,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b343,55350,decimal_10x,Vitamin D3,1000,IU,25,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b344,328200,decimal_10x,Calcium,200,mg,222,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b345,279099,decimal_10x,Vitamin D3,100,mcg,50,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b346,245365,decimal_10x,Thiamine,3.3,mg,22,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b347,294614,decimal_10x,Magnesium,50,mg,63,Children less than 4 years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint
+b348,5232,decimal_10x,Calcium,80,mg,80,Adults and children 4 or more years of age,DB_error,DB_error,DB_error,DB_error,True,DB_error
+b349,238741,decimal_10x,Zinc Gluconate,150,mg,140,Adults and children 4 or more years of age,label_misprint,label_misprint,label_misprint,label_misprint,True,label_misprint

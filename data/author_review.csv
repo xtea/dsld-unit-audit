@@ -1,0 +1,31 @@
+key,category,final,printed_amount,printed_unit,printed_pct,note
+a13,LABEL_INCONSISTENT,label_misprint,450,mg,30,标签确实印 450 mg，非 mcg；与 30% 不相符。
+a15,LABEL_INCONSISTENT,label_misprint,38,mg,3,旋转放大后印的是 38 mg，未见小数点；与 3% 不相符。
+a18,LABEL_INCONSISTENT,label_misprint,200,mg,8333,已核对原始 PDF；B12 印 200 mg，非 mcg。
+b15,LABEL_INCONSISTENT,label_misprint,850,mg,50,B2 行印 850 mg；邻行 B1 的 mcg 可清楚区分。
+b33,LABEL_INCONSISTENT,label_misprint,20,mcg,200,标签泛酸行确实印 20 mcg。
+b34,LABEL_INCONSISTENT,label_misprint,225,mg,150,碘行印 225 mg，非 mcg。
+b39,LABEL_INCONSISTENT,label_misprint,70,mcg,470,原始 PDF 印 70 mcg（105 IU）；单位与括号内 IU 及 470% 矛盾。
+b57,LABEL_INCONSISTENT,label_misprint,15,mcg,100,维生素 E 行印 15 mcg，非 mg。
+b103,LABEL_INCONSISTENT,label_misprint,300,mcg,"3,000",泛酸行印 300 mcg；不按常识改成 mg。
+b105,LABEL_INCONSISTENT,label_misprint,20,mcg,2,旋转放大后磷行印 20 mcg，非 mg。
+b117,LABEL_INCONSISTENT,label_misprint,60,mg,40,标签印 60 mg；2–3 岁栏为 40%，4 岁及以上栏为 20%。库对应儿童栏，单位矛盾仍来自标签。
+b143,LABEL_INCONSISTENT,label_misprint,120,mcg,800,维生素 E 跨行印为 120 mcg/800%。
+b148,LABEL_INCONSISTENT,label_misprint,2.6,mg,108,B12 行明确印 2.6 mg。
+b149,LABEL_INCONSISTENT,label_misprint,75,mg,100,原始 PDF 放大后钼行印 75 mg，与 100% 不相符。
+b151,LABEL_INCONSISTENT,label_misprint,9,mcg,50,铁行印 9 mcg，非 mg。
+b173,DB_UNIT,DB_error,10,mcg,13.2,K1 行印 10 mcg，库录为 mg；%DV 照印刷值保留。
+b199,LABEL_INCONSISTENT,label_misprint,100,mg,135,钼行印 100 mg；上下碘、硒行的 mcg 可区分。
+b206,LABEL_INCONSISTENT,label_misprint,33.5,mcg,223,英文 Supplement Facts 的维生素 E 行印 33.5 mcg。
+b215,LABEL_INCONSISTENT,label_misprint,40,mcg,8,胆碱行印 40 mcg，非 mg。
+b234,DB_UNIT,DB_error,12,mcg,429,原始 PDF 旋转放大确认 12 mcg；库录为 mg。标签注明孕期及哺乳期 DV。
+b237,LABEL_INCONSISTENT,label_misprint,0.4,mcg,25,硫胺素行印 0.4 mcg，非 mg。
+b251,OTHER_DV_BASIS,not_error,100,mg,125,1–3 岁栏为 125%，成人及 ≥4 岁栏为 24%；库对应儿童栏。
+b259,LABEL_INCONSISTENT,label_misprint,200,mcg,333,B12 行只印 333%，非 3333%；库照抄标签。
+b279,CANNOT_DETERMINE,unresolved,13%2,mg,100,原始 PDF 的数值位置可见异常字串“13%2 mg”；不能可靠解释成 13.2 或 2，不强行纠正。
+b295,CANNOT_DETERMINE,unresolved,?,mg,20,已放大原始 PDF；镁数值疑似 83（也可能 85），低清晰度下不能可靠确定，不用 %DV 反推。
+b302,COLUMN_OR_SERVING,column_or_serving,10,mg,2,对应库中 ≥4 岁人群的右栏印 2%；13% 是左侧 <4 岁儿童栏。
+b316,OTHER_DV_BASIS,not_error,50,mg,63,1–3 岁栏为 63%，成人及 ≥4 岁栏为 12%；库对应儿童栏。
+b328,LABEL_INCONSISTENT,label_misprint,5,MG,2059,核黄素行印 5 MG，非 35 MG；与 2059% 不相符。
+b337,CANNOT_DETERMINE,unresolved,20,mg,?,原始 PDF 右缘弯曲且模糊，B6 的 %DV 无法可靠区分 100 与 1000。
+b340,LABEL_INCONSISTENT,label_misprint,10,mg,"33,3333","核验页已标；标签原样印“33,3333%”（逗号位置异常），去掉逗号为库中的 333333。"

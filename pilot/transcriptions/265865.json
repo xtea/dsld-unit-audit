@@ -1,0 +1,13 @@
+{"serving_size": "2 Capsules", "servings_per_day_max": null, "rows": [
+{"name": "Total Carbohydrate", "quantity": 1, "unit": "g"},
+{"name": "Thiamin (Vitamin B1)", "quantity": 50, "unit": "mg"},
+{"name": "Riboflavin (as riboflavin-5'-phosphate and Vitamin B2)", "quantity": 50, "unit": "mg"},
+{"name": "Niacin (as niacinamide)", "quantity": 100, "unit": "mg"},
+{"name": "Vitamin B6 (as pyridoxal-5'-phosphate and pyridoxine HCl)", "quantity": 50, "unit": "mg"},
+{"name": "Folate", "quantity": 800, "unit": "mcg DFE"},
+{"name": "Vitamin B12 (as methylcobalamin)", "quantity": 1000, "unit": "mcg"},
+{"name": "Biotin", "quantity": 300, "unit": "mcg"},
+{"name": "Pantothenic Acid (as calcium D-pantothenate)", "quantity": 100, "unit": "mg"},
+{"name": "Choline (as choline bitartrate)", "quantity": 250, "unit": "mg"},
+{"name": "Inositol", "quantity": 250, "unit": "mg"}
+]}

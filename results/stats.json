@@ -1,0 +1,580 @@
+{
+ "labels": 214780,
+ "nhanes_labels": 8506,
+ "flag_rows": 3367,
+ "unit_rows": 1592,
+ "unit_labels": 1472,
+ "unit_rows_adult": 1531,
+ "cls": {
+  "other": 434,
+  "unit_1000x": 1592,
+  "decimal_10x": 1341
+ },
+ "by_year": {
+  "2011": [
+   3422,
+   53,
+   15.49
+  ],
+  "2012": [
+   11938,
+   59,
+   4.94
+  ],
+  "2013": [
+   11946,
+   79,
+   6.61
+  ],
+  "2014": [
+   11938,
+   83,
+   6.95
+  ],
+  "2015": [
+   11990,
+   55,
+   4.59
+  ],
+  "2016": [
+   11980,
+   65,
+   5.43
+  ],
+  "2017": [
+   12129,
+   79,
+   6.51
+  ],
+  "2018": [
+   10985,
+   60,
+   5.46
+  ],
+  "2019": [
+   14147,
+   84,
+   5.94
+  ],
+  "2020": [
+   23435,
+   140,
+   5.97
+  ],
+  "2021": [
+   18035,
+   179,
+   9.93
+  ],
+  "2022": [
+   19201,
+   177,
+   9.22
+  ],
+  "2023": [
+   22120,
+   137,
+   6.19
+  ],
+  "2024": [
+   18000,
+   131,
+   7.28
+  ],
+  "2025": [
+   13514,
+   91,
+   6.73
+  ]
+ },
+ "market_0": [
+  121959,
+  827,
+  6.78
+ ],
+ "market_1": [
+  92821,
+  645,
+  6.95
+ ],
+ "nhanes_unit_labels": 100,
+ "rows_checked": 509447,
+ "by_nutrient": [
+  [
+   "vitamin b12",
+   27272,
+   214,
+   7.85
+  ],
+  [
+   "selenium",
+   16038,
+   110,
+   6.86
+  ],
+  [
+   "vitamin e",
+   23075,
+   103,
+   4.46
+  ],
+  [
+   "vitamin d",
+   27322,
+   100,
+   3.66
+  ],
+  [
+   "chromium",
+   15859,
+   89,
+   5.61
+  ],
+  [
+   "biotin",
+   19214,
+   88,
+   4.58
+  ],
+  [
+   "iodine",
+   13676,
+   85,
+   6.22
+  ],
+  [
+   "pantothenic acid",
+   20625,
+   80,
+   3.88
+  ],
+  [
+   "molybdenum",
+   9778,
+   69,
+   7.06
+  ],
+  [
+   "vitamin c",
+   35499,
+   65,
+   1.83
+  ],
+  [
+   "folate",
+   23096,
+   64,
+   2.77
+  ],
+  [
+   "vitamin b6",
+   29203,
+   62,
+   2.12
+  ],
+  [
+   "manganese",
+   15212,
+   56,
+   3.68
+  ],
+  [
+   "calcium",
+   33175,
+   48,
+   1.45
+  ],
+  [
+   "copper",
+   13531,
+   45,
+   3.33
+  ],
+  [
+   "magnesium",
+   27474,
+   44,
+   1.6
+  ],
+  [
+   "vitamin k",
+   9150,
+   44,
+   4.81
+  ],
+  [
+   "thiamin",
+   19988,
+   41,
+   2.05
+  ],
+  [
+   "vitamin a",
+   20565,
+   38,
+   1.85
+  ],
+  [
+   "zinc",
+   25789,
+   37,
+   1.43
+  ],
+  [
+   "riboflavin",
+   20047,
+   28,
+   1.4
+  ],
+  [
+   "iron",
+   12662,
+   26,
+   2.05
+  ],
+  [
+   "potassium",
+   14854,
+   25,
+   1.68
+  ],
+  [
+   "niacin",
+   23859,
+   9,
+   0.38
+  ],
+  [
+   "choline",
+   3517,
+   9,
+   2.56
+  ],
+  [
+   "phosphorus",
+   6810,
+   8,
+   1.17
+  ],
+  [
+   "chloride",
+   2157,
+   5,
+   2.32
+  ]
+ ],
+ "author_reviewed_rows": 30,
+ "adj_unit_1000x": {
+  "DB_error": 215,
+  "label_misprint": 82,
+  "unresolved": 3,
+  "n": 300,
+  "resolved": 297,
+  "share": 0.7239057239057239,
+  "lo": 0.6704464710787017,
+  "hi": 0.7716466437032965
+ },
+ "adj_unit_1000x_not_child_target": {
+  "DB_error": 211,
+  "label_misprint": 80,
+  "unresolved": 3,
+  "n": 294,
+  "resolved": 291,
+  "share": 0.7250859106529209,
+  "lo": 0.6711058765481711,
+  "hi": 0.7732004899889796
+ },
+ "child_target_unit_1000x": 6,
+ "unanimous_unit_1000x": 279,
+ "adj_unit_1000x_unanimous_only": {
+  "DB_error": 213,
+  "label_misprint": 63,
+  "unresolved": 3,
+  "n": 279,
+  "resolved": 276,
+  "share": 0.7717391304347826,
+  "lo": 0.7186917303040324,
+  "hi": 0.8173257881778516
+ },
+ "lone_sonnet_unit_1000x": {
+  "label_misprint->DB_error": 9,
+  "DB_error->label_misprint": 2
+ },
+ "lone_opus_unit_1000x": {
+  "DB_error->label_misprint": 3
+ },
+ "lone_gemini_unit_1000x": {
+  "label_misprint->DB_error": 2,
+  "label_misprint->unresolved": 1,
+  "DB_error->label_misprint": 2,
+  "unresolved->DB_error": 2
+ },
+ "agree_sonnet_opus_unit_1000x": 286,
+ "agree_sonnet_gemini_unit_1000x": 282,
+ "agree_opus_gemini_unit_1000x": 290,
+ "adj_decimal_10x": {
+  "label_misprint": 58,
+  "not_error": 2,
+  "DB_error": 36,
+  "unresolved": 3,
+  "column_or_serving": 1,
+  "n": 100,
+  "resolved": 94,
+  "share": 0.3829787234042553,
+  "lo": 0.2911404875065257,
+  "hi": 0.48400628033046794
+ },
+ "adj_decimal_10x_not_child_target": {
+  "label_misprint": 44,
+  "DB_error": 35,
+  "unresolved": 3,
+  "column_or_serving": 1,
+  "n": 83,
+  "resolved": 79,
+  "share": 0.4430379746835443,
+  "lo": 0.33867609150989586,
+  "hi": 0.5526828392688433
+ },
+ "child_target_decimal_10x": 17,
+ "unanimous_decimal_10x": 91,
+ "adj_decimal_10x_unanimous_only": {
+  "label_misprint": 55,
+  "DB_error": 36,
+  "n": 91,
+  "resolved": 91,
+  "share": 0.3956043956043956,
+  "lo": 0.3013302288475036,
+  "hi": 0.49833574051615126
+ },
+ "lone_sonnet_decimal_10x": {
+  "label_misprint->DB_error": 2
+ },
+ "lone_opus_decimal_10x": {
+  "label_misprint->DB_error": 1
+ },
+ "lone_gemini_decimal_10x": {
+  "label_misprint->DB_error": 3,
+  "unresolved->DB_error": 2
+ },
+ "agree_sonnet_opus_decimal_10x": 96,
+ "agree_sonnet_gemini_decimal_10x": 92,
+ "agree_opus_gemini_decimal_10x": 93,
+ "extrap_db_unit_rows": [
+  1067,
+  1152,
+  1228
+ ],
+ "spot_unanimous_db": {
+  "confirmed": 30,
+  "n": 30,
+  "lo": 0.8864829086095221,
+  "hi": 1.0,
+  "pool": 213
+ },
+ "adj_unit_spot_lower": {
+  "moved": 24,
+  "share": 0.6430976430976431
+ },
+ "fleiss_unit": 0.8810752309279908,
+ "kappa_sonnet_opus_unit": 0.8813961369027449,
+ "kappa_sonnet_gemini_unit": 0.8437228685535682,
+ "kappa_opus_gemini_unit": 0.9167452961092302,
+ "fleiss_all": 0.8904431067461305,
+ "kappa_sonnet_opus_all": 0.9039756738373721,
+ "kappa_sonnet_gemini_all": 0.8580088471410628,
+ "kappa_opus_gemini_all": 0.9088080678038838,
+ "ul_applicability": {
+  "assessed": 91,
+  "no UL": 93,
+  "form undetermined": 10,
+  "not adult product": 13,
+  "unit not assessable": 8
+ },
+ "ul_flips": {
+  "serving: same side": 47,
+  "day: same side": 46,
+  "serving: db over, true under": 44,
+  "day: db over, true under": 44,
+  "day: db under, true over": 1
+ },
+ "ul_not_assessable_units": {
+  "mcg": 8
+ },
+ "db_direction_verified": {
+  "DB 1000x too small": 87,
+  "DB 1000x too large": 128
+ },
+ "verified_by_nutrient": [
+  [
+   "vitamin b12",
+   24,
+   41
+  ],
+  [
+   "chromium",
+   19,
+   22
+  ],
+  [
+   "vitamin d",
+   19,
+   22
+  ],
+  [
+   "biotin",
+   15,
+   20
+  ],
+  [
+   "vitamin e",
+   8,
+   18
+  ],
+  [
+   "selenium",
+   12,
+   16
+  ],
+  [
+   "vitamin b6",
+   11,
+   16
+  ],
+  [
+   "pantothenic acid",
+   11,
+   15
+  ],
+  [
+   "manganese",
+   10,
+   12
+  ],
+  [
+   "iodine",
+   8,
+   11
+  ],
+  [
+   "molybdenum",
+   7,
+   11
+  ],
+  [
+   "thiamin",
+   6,
+   10
+  ],
+  [
+   "vitamin c",
+   8,
+   10
+  ],
+  [
+   "folate",
+   8,
+   10
+  ],
+  [
+   "magnesium",
+   7,
+   9
+  ],
+  [
+   "vitamin k",
+   7,
+   8
+  ],
+  [
+   "calcium",
+   6,
+   8
+  ],
+  [
+   "potassium",
+   6,
+   7
+  ],
+  [
+   "iron",
+   4,
+   7
+  ],
+  [
+   "riboflavin",
+   5,
+   6
+  ],
+  [
+   "vitamin a",
+   5,
+   5
+  ],
+  [
+   "zinc",
+   3,
+   4
+  ],
+  [
+   "niacin",
+   3,
+   3
+  ],
+  [
+   "copper",
+   2,
+   2
+  ],
+  [
+   "choline",
+   0,
+   2
+  ],
+  [
+   "chloride",
+   1,
+   1
+  ],
+  [
+   "phosphorus",
+   0,
+   1
+  ]
+ ],
+ "test_market": {
+  "chi2": 0.22,
+  "df": 1,
+  "p": 0.6403609939951865
+ },
+ "rate_non_nhanes": 6.65,
+ "test_nhanes": {
+  "chi2": 31.28,
+  "df": 1,
+  "p": 2.2350396272723035e-08
+ },
+ "test_year_homogeneity_2012_2025": {
+  "chi2": 70.41,
+  "df": 13,
+  "p": 6.7334635224196e-10
+ },
+ "test_year_trend_2012_2025": {
+  "z": 3.8,
+  "p": 0.00014498081204481118
+ },
+ "test_2011_vs_rest": {
+  "chi2": 38.09,
+  "df": 1,
+  "p": 6.758371309602915e-10
+ },
+ "test_share_by_nutrient": {
+  "chi2": 17.21,
+  "df": 13,
+  "p": 0.19005117351499448,
+  "nutrients": 14
+ },
+ "test_unit_vs_10x_share": {
+  "chi2": 36.11,
+  "df": 1,
+  "p": 1.8684889147347015e-09
+ }
+}

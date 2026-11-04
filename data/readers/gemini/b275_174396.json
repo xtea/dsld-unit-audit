@@ -1,0 +1,1 @@
+{"text": "{\"printed_amount\": 50, \"printed_unit\": \"mcg\", \"printed_percent_dv\": 63, \"legible\": true}", "model": "gemini-4-argon", "cost": 0.004994, "usage": {"in": 2307, "out": 38, "thought": null}, "t": 1793766113.6922119}

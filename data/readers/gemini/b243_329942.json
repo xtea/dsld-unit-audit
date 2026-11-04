@@ -1,0 +1,1 @@
+{"text": "```json\n{\"printed_amount\": 2.5, \"printed_unit\": \"mcg\", \"printed_percent_dv\": 147, \"legible\": true}\n```", "model": "gemini-4-argon", "cost": 0.005038, "usage": {"in": 2294, "out": 45, "thought": null}, "t": 1793766083.203576}

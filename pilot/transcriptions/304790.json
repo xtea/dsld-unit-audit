@@ -1,0 +1,3 @@
+```json
+{"serving_size": "One tablet every eight hours (plus two Vitamin B6 tablets)", "servings_per_day_max": null, "rows": [{"name": "Vitamin C (ascorbic acid)", "quantity": 120, "unit": "mg"}, {"name": "Calcium (calcium citrate)", "quantity": 120, "unit": "mg"}, {"name": "Iron (carbonyl iron, ferrous gluconate)", "quantity": 20, "unit": "mg"}, {"name": "Vitamin D3 (cholecalciferol)", "quantity": 400, "unit": "IU"}, {"name": "Vitamin B6 (pyridoxine HCl)", "quantity": 25, "unit": "mg"}, {"name": "Folic Acid", "quantity": 1, "unit": "mg"}, {"name": "Vitamin B6 (pyridoxine HCl) (each Vitamin B6 tablet)", "quantity": 25, "unit": "mg"}]}
+```

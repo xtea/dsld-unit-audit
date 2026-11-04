@@ -1,0 +1,15 @@
+{"serving_size": "1 Liquid Soft-Gel", "servings_per_day_max": 1, "rows": [
+{"name": "Calories", "quantity": 10, "unit": "Calories"},
+{"name": "Protein", "quantity": 1, "unit": "g"},
+{"name": "Thiamin (as Thiamine Hydrochloride) (B1)", "quantity": 30, "unit": "mg"},
+{"name": "Riboflavin (B2)", "quantity": 30, "unit": "mg"},
+{"name": "Niacin (as Niacinamide) (B3)", "quantity": 30, "unit": "mg"},
+{"name": "Vitamin B6 (as Pyridoxine Hydrochloride)", "quantity": 30, "unit": "mg"},
+{"name": "Folate (B9)", "quantity": 680, "unit": "mcg DFE"},
+{"name": "Vitamin B12 (as Methylcobalamin)", "quantity": 1000, "unit": "mcg"},
+{"name": "Biotin (B7)", "quantity": 300, "unit": "mcg"},
+{"name": "Pantothenic Acid (as D-Calcium Pantothenate) (B5)", "quantity": 30, "unit": "mg"},
+{"name": "Medium Chain Triglyceride (MCT) Oil", "quantity": 455, "unit": "mg"},
+{"name": "N,N-Dimethylglycine (DMG) Hydrochloride (B15)", "quantity": 30, "unit": "mg"},
+{"name": "BioPerine Complex", "quantity": 6, "unit": "mg"}
+]}

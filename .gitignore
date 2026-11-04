@@ -1,0 +1,6 @@
+data/labels/
+data/labels_png/
+data/snapshot/
+__pycache__/
+.DS_Store
+.env

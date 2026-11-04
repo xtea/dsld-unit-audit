@@ -1,0 +1,3 @@
+{"printed_amount": 2, "printed_unit": "mg", "printed_percent_dv": 100, "legible": false}
+
+The amount prints as "13%2 mg", which looks garbled. I read it as 2 mg, which matches the 100% DV beside it. That reading is a best guess, which is why I marked it not legible.

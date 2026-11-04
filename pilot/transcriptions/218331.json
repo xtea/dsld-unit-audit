@@ -1,0 +1,30 @@
+```json
+{"serving_size":"2 Capsules","servings_per_day_max":2,"rows":[
+{"name":"Vitamin A (75% as natural beta-carotene and 25% as retinyl palmitate)","quantity":1120,"unit":"mcg"},
+{"name":"Vitamin C (as sodium ascorbate, potassium ascorbate, zinc ascorbate, and calcium ascorbate)","quantity":125,"unit":"mg"},
+{"name":"Vitamin D3 (cholecalciferol)","quantity":2.5,"unit":"mcg"},
+{"name":"Vitamin E (as d-alpha tocopheryl succinate and mixed tocopherols)","quantity":67,"unit":"mg"},
+{"name":"Thiamin (as thiamine mononitrate)","quantity":10,"unit":"mg"},
+{"name":"Riboflavin (as riboflavin 5'-phosphate sodium)","quantity":10,"unit":"mg"},
+{"name":"Niacin (as niacinamide and niacin)","quantity":32,"unit":"mg"},
+{"name":"Vitamin B6 (as pyridoxal 5'-phosphate)","quantity":10,"unit":"mg"},
+{"name":"Folate (as Quatrefolic (6S)-5-methyltetrahydrofolic acid, glucosamine salt)","quantity":200,"unit":"mcg DFE"},
+{"name":"Vitamin B12 (as MecobalActive methylcobalamin)","quantity":250,"unit":"mcg"},
+{"name":"Biotin","quantity":500,"unit":"mcg"},
+{"name":"Pantothenic Acid (as d-calcium pantothenate)","quantity":100,"unit":"mg"},
+{"name":"Choline (as choline dihydrogen citrate)","quantity":18,"unit":"mg"},
+{"name":"Calcium (as DimaCal di-calcium malate, d-calcium pantothenate, and calcium ascorbate)","quantity":50,"unit":"mg"},
+{"name":"Iodine (as potassium iodide)","quantity":50,"unit":"mcg"},
+{"name":"Magnesium (as Albion di-magnesium malate)","quantity":50,"unit":"mg"},
+{"name":"Zinc (as TRAACS zinc bisglycinate chelate)","quantity":6.5,"unit":"mg"},
+{"name":"Selenium (as Albion selenium glycinate complex)","quantity":50,"unit":"mcg"},
+{"name":"Copper (as TRAACS copper bisglycinate chelate)","quantity":0.5,"unit":"mg"},
+{"name":"Manganese (as TRAACS manganese bisglycinate chelate)","quantity":0.25,"unit":"mg"},
+{"name":"Chromium (as TRAACS chromium nicotinate glycinate chelate)","quantity":250,"unit":"mcg"},
+{"name":"Molybdenum (as TRAACS molybdenum glycinate chelate)","quantity":25,"unit":"mcg"},
+{"name":"Potassium (as Albion potassium glycinate complex and potassium ascorbate)","quantity":49.5,"unit":"mg"},
+{"name":"Inositol","quantity":18,"unit":"mg"},
+{"name":"PABA (para-aminobenzoic acid)","quantity":6.5,"unit":"mg"},
+{"name":"Vanadium (as TRAACS vanadium nicotinate glycinate chelate)","quantity":375,"unit":"mcg"}
+]}
+```

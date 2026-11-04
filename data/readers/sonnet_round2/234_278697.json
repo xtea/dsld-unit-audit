@@ -1,0 +1,5 @@
+```json
+{"printed_amount": null, "printed_unit": null, "printed_percent_dv": null, "legible": false}
+```
+
+The source image is only 359×134 pixels. The Supplement Facts panel is rotated and its text is blurred, so the Vitamin B12 row can't be read reliably. Upscaling didn't recover any more detail, so I left the values empty instead of guessing.
