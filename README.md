@@ -20,6 +20,7 @@ The study audits a complete snapshot of the NIH Dietary Supplement Label Databas
 | `scripts/stats.py` | Every number in the paper, including significance tests → `results/stats.json`, `data/final_verdicts.csv`. |
 | `scripts/ul_analysis.py` | Upper-limit analysis with the applicability rules (nutrient form, adult products) → `results/ul_assessment.csv`. |
 | `scripts/figures.py` | Figures 1 and 2 → `results/`. |
+| `scripts/export_discrepancies.py` | The 400 verified rows with database and printed values, verdict and basis → `results/dsld_verified_rows.csv` (the list shared with the database maintainers). |
 | `data/sample_round1.json`, `data/sample_round2.json` | The 400 sampled flagged rows (300 unit, 100 10-fold). |
 | `data/readers/` | Raw output of each reader for each sampled row (`sonnet_round1/`, `sonnet_round2/`, `opus/`, `gemini/`). |
 | `data/author_review30.md` | The author's review of the 30 rows without full agreement: printed values, category and note, as filled in. The readers' readings were shown; the review was not blind. |

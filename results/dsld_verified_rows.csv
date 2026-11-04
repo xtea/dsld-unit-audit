@@ -1,0 +1,401 @@
+dsld_id,ingredient,flag_class,db_amount,db_unit,db_percent_dv,label_amount,label_unit,label_percent_dv,verdict,basis
+288139,Zinc,unit_1000x,13,mcg,100,13,mg,100,database differs from label,three readers agree
+313418,Vitamin E,unit_1000x,21,mcg,140,21,mcg,140,label printed as stored (label inconsistency),three readers agree
+262352,Vitamin K-2,unit_1000x,60,mg,50,60,mcg,50,database differs from label,three readers agree; author spot check
+321985,Vitamin B12,unit_1000x,2,mg,83,2,mg,83,label printed as stored (label inconsistency),three readers agree
+213452,Iodine,unit_1000x,53,mg,35,53,mg,35,label printed as stored (label inconsistency),three readers agree
+298562,Vitamin E,unit_1000x,0.67,mcg,4,0.67,mcg,4,label printed as stored (label inconsistency),three readers agree
+273299,Selenium,unit_1000x,20,mg,36,20,mcg,36,database differs from label,three readers agree
+178020,Vitamin K-2,unit_1000x,16.7,mg,14,16.7,mcg,14,database differs from label,three readers agree
+323495,Biotin,unit_1000x,400,mg,1333,400,mcg,1333,database differs from label,three readers agree
+304930,Vitamin A,unit_1000x,1050,mg,117,1050,mcg,117,database differs from label,three readers agree; author spot check
+69835,Selenium,unit_1000x,50,mg,71,50,mcg,71,database differs from label,three readers agree
+251385,Vitamin B12,unit_1000x,25,mg,417,25,mcg,417,database differs from label,three readers agree; author spot check
+276846,Chromium,unit_1000x,100,mg,286,100,mcg,286,database differs from label,three readers agree
+61988,Thiamine,unit_1000x,450,mg,30,450,mg,30,label printed as stored (label inconsistency),author review of reader disagreement
+262878,Pantothenic Acid,unit_1000x,100,mcg,2000,100,mg,2000,database differs from label,three readers agree
+2883,Vitamin B6,unit_1000x,38,mg,3,38,mg,3,label printed as stored (label inconsistency),author review of reader disagreement
+262597,Chromium,unit_1000x,150,mg,125,150,mcg,125,database differs from label,three readers agree
+302422,Chromium,unit_1000x,500,mg,1429,500,mcg,1429,database differs from label,three readers agree
+248129,Vitamin B12,unit_1000x,200,mg,8333,200,mg,8333,label printed as stored (label inconsistency),author review of reader disagreement
+271868,Vitamin D,unit_1000x,10,mg,50,5,mcg,33,database differs from label,three readers agree
+51731,Vitamin B12,unit_1000x,3,mg,50,3.0,µg,50,database differs from label,three readers agree
+217950,Potassium,unit_1000x,55,mcg,2,55,mg,2,database differs from label,three readers agree
+21162,Vitamin B6,unit_1000x,0.1,mcg,4,0.1,mcg,4,label printed as stored (label inconsistency),three readers agree
+272447,Vitamin D3,unit_1000x,0.6,mg,3,0.6,mcg,3,database differs from label,three readers agree
+203828,Vitamin B12,unit_1000x,200,mg,3333,200,mg,3333,label printed as stored (label inconsistency),three readers agree
+72101,Selenium,unit_1000x,1.25,mg,2,1.25,mcg,2,database differs from label,three readers agree
+263498,Vitamin K2,unit_1000x,1600,mg,1333,1600,mcg,1333,database differs from label,three readers agree
+255683,Molybdenum,unit_1000x,50,mg,67,50,mcg,67,database differs from label,three readers agree; author spot check
+27409,Vitamin B12,unit_1000x,50,mg,833,50,mcg,833,database differs from label,three readers agree
+291443,Vitamin A,unit_1000x,450,mg,50,450,mcg,50,database differs from label,three readers agree
+39306,Vitamin B6,unit_1000x,40,mcg,2000,40,mg,2000,database differs from label,three readers agree
+327569,Vitamin D3,unit_1000x,10,mg,50,10,mcg,50,database differs from label,three readers agree
+243759,Chromium,unit_1000x,35,mg,100,35,mg,100,label printed as stored (label inconsistency),three readers agree
+184545,Molybdenum,unit_1000x,75,mg,100,75,mcg,100,database differs from label,three readers agree
+304128,Thiamine,unit_1000x,25,mcg,2083,25,mg,2083,database differs from label,three readers agree
+270207,Chromium,unit_1000x,200,mg,571,200,mg,571,label printed as stored (label inconsistency),three readers agree
+19673,Chromium,unit_1000x,800,mcg,2,800,mcg,2,label printed as stored (label inconsistency),three readers agree
+262188,Iron,unit_1000x,0.4,mcg,2,0.4,mg,2,database differs from label,three readers agree
+80604,Vitamin A,unit_1000x,1965,mg,218,1965,mcg,218,database differs from label,three readers agree
+47209,Copper,unit_1000x,88,mg,4,88,mcg,4,database differs from label,three readers agree
+319031,Vitamin B12,unit_1000x,1000,mg,41667,1000,mcg,41667,database differs from label,three readers agree
+5912,Zinc,unit_1000x,20,mcg,200,20,µg,200,label printed as stored (label inconsistency),three readers agree
+8488,Selenium,unit_1000x,250,mg,357,250,mg,357,label printed as stored (label inconsistency),three readers agree
+246585,Magnesium,unit_1000x,125,mcg,31,125,mg,31,database differs from label,three readers agree; author spot check
+1884,Magnesium,unit_1000x,155,mcg,40,155,mcg,40,label printed as stored (label inconsistency),three readers agree
+277205,Vitamin B5,unit_1000x,10,mcg,200,10,mg,200,database differs from label,three readers agree
+286208,Vitamin B12,unit_1000x,500,mg,20833,500,mcg,20833,database differs from label,three readers agree
+317564,Molybdenum,unit_1000x,42,mg,93,42,mg,93,label printed as stored (label inconsistency),three readers agree
+15140,Vitamin B12,unit_1000x,1000,mg,16667,1000,mcg,16667,database differs from label,three readers agree
+286397,Vitamin D,unit_1000x,2.5,mg,17,2.5,mcg,17,database differs from label,three readers agree
+220091,Vitamin B12,unit_1000x,250,mg,10417,250,mcg,10417,database differs from label,three readers agree
+248995,Vitamin C,unit_1000x,200,mcg,333,200,mg,222,database differs from label,three readers agree
+243205,Chromium,unit_1000x,200,mg,570,200,mcg,570,database differs from label,three readers agree
+220091,Vitamin E,unit_1000x,268,mcg,1787,268,mg,1787,database differs from label,three readers agree
+241995,Vitamin E,unit_1000x,67,mcg,447,67,mg,447,database differs from label,three readers agree
+64675,Vitamin B12,unit_1000x,2,mg,100,6,mcg,100,database differs from label,three readers agree
+7857,Biotin,unit_1000x,1000,mg,333,1000,mg,333,label printed as stored (label inconsistency),three readers agree
+36741,Vitamin C,unit_1000x,120,mcg,125,72,mg,120,database differs from label,three readers agree
+316413,Manganese,unit_1000x,5,mcg,217,5,mg,217,database differs from label,three readers agree; author spot check
+211037,Niacin,unit_1000x,25,mcg,139,25,mg,139,database differs from label,three readers agree
+247077,Biotin,unit_1000x,100,mg,33,100,mcg,33,database differs from label,three readers agree
+312226,Vitamin E,unit_1000x,15,mcg,100,15,mg,100,database differs from label,three readers agree
+242145,Magnesium,unit_1000x,50,mcg,12,50,mg,12,database differs from label,three readers agree
+325679,Vitamin K,unit_1000x,200,mg,167,200,mcg,167,database differs from label,three readers agree
+316412,Manganese,unit_1000x,5,mcg,217,5,mg,217,database differs from label,three readers agree
+10248,Vitamin B2,unit_1000x,850,mg,50,850,mg,50,label printed as stored (label inconsistency),author review of reader disagreement
+249990,Vitamin D,unit_1000x,1.25,mg,6,1.25,mcg,6,database differs from label,three readers agree
+211785,Vitamin B12,unit_1000x,3000,mg,125000,3000,mcg,125000,database differs from label,three readers agree
+285744,Molybdenum,unit_1000x,75,mg,167,75,mcg,167,database differs from label,three readers agree
+221019,Selenium,unit_1000x,100,mg,182,100,mg,182,label printed as stored (label inconsistency),three readers agree
+333845,Vitamin B12,unit_1000x,0.6,mg,25,0.6,mcg,25,database differs from label,three readers agree
+178217,Molybdenum,unit_1000x,37.5,mg,50,37.5,mcg,50,database differs from label,three readers agree
+264259,Selenium,unit_1000x,32.5,mg,46.5,32.5,mcg,46.5,database differs from label,three readers agree; author spot check
+177902,Manganese,unit_1000x,0.5,mcg,25,0.5,mg,25,database differs from label,three readers agree
+315052,Vitamin D,unit_1000x,50,mg,250,50,mcg,250,database differs from label,three readers agree
+328931,Calcium Pantothenate,unit_1000x,400,mcg,30.77,400,mcg,30.77,label printed as stored (label inconsistency),three readers agree
+207998,Biotin,unit_1000x,75,mg,25,75,mg,25,label printed as stored (label inconsistency),three readers agree
+248992,Choline,unit_1000x,10,mcg,2,10,mcg,2,label printed as stored (label inconsistency),three readers agree
+210010,Biotin,unit_1000x,300,mg,100,300,mcg,100,database differs from label,three readers agree
+310214,Vitamin E,unit_1000x,1,mcg,5,1,mcg,5,label printed as stored (label inconsistency),three readers agree
+258746,Vitamin B12,unit_1000x,45,mcg,2,45,mcg,2,label printed as stored (label inconsistency),three readers agree
+250641,Vitamin C,unit_1000x,150,mcg,167,150,mcg,167,label printed as stored (label inconsistency),three readers agree
+297866,Vitamin B12,unit_1000x,250,mg,10417,250,mcg,10417,database differs from label,three readers agree
+193269,Pantothenic Acid,unit_1000x,20,mcg,200,20,mcg,200,label printed as stored (label inconsistency),author review of reader disagreement
+82168,Iodine,unit_1000x,225,mg,150,225,mg,150,label printed as stored (label inconsistency),author review of reader disagreement
+297988,Vitamin E,unit_1000x,15,mcg,100,15,mcg,100,label printed as stored (label inconsistency),three readers agree
+265728,Biotin,unit_1000x,300,mg,1000,300,mcg,"1,000",database differs from label,three readers agree; author spot check
+317077,Riboflavin,unit_1000x,0.325,mcg,25,0.325,mg,25,database differs from label,three readers agree
+242404,Vitamin D,unit_1000x,25,mg,125,25,mcg,125,database differs from label,three readers agree
+303244,Vitamin E,unit_1000x,70,mcg,470,70,mcg,470,label printed as stored (label inconsistency),author review of reader disagreement
+237144,Manganese,unit_1000x,1,mcg,43,1,mg,43,database differs from label,three readers agree; author spot check
+221314,Pantothenic Acid,unit_1000x,50,mcg,1000,50,mcg,1000,label printed as stored (label inconsistency),three readers agree
+316015,Vitamin C,unit_1000x,150,mcg,167,150,mg,167,database differs from label,three readers agree
+279715,Calcium,unit_1000x,333,mcg,26,333,mg,26,database differs from label,three readers agree
+270603,Vitamin K2,unit_1000x,50,mg,42,50,mcg,42,database differs from label,three readers agree
+277235,Vitamin B6,unit_1000x,30,mcg,1500,30,mg,1500,database differs from label,three readers agree
+319881,Pantothenic Acid,unit_1000x,100,mcg,2000,100,mg,2000,database differs from label,three readers agree
+81879,Selenium,unit_1000x,100,mg,143,100,mcg,143,database differs from label,three readers agree
+209214,Potassium,unit_1000x,87.5,mcg,2,87.5,mcg,2,label printed as stored (label inconsistency),three readers agree
+273036,Pantothenic Acid,unit_1000x,5,mcg,100,5,mg,100,database differs from label,three readers agree
+15889,Biotin,unit_1000x,300,mg,100,300,mcg,100,database differs from label,three readers agree
+66043,Chromium,unit_1000x,200,mg,167,200,mcg,167,database differs from label,three readers agree
+338266,Vitamin D,unit_1000x,10,mg,50,10,mcg,50,database differs from label,three readers agree
+265730,Calcium,unit_1000x,34,mcg,3,34,mg,3,database differs from label,three readers agree
+270893,Vitamin B12,unit_1000x,1000,mg,16667,1000,mg,16667,label printed as stored (label inconsistency),three readers agree
+262188,Potassium,unit_1000x,410,mcg,8,410,mg,8,database differs from label,three readers agree; author spot check
+319840,Vitamin B12,unit_1000x,16,mg,667,16,mcg,667,database differs from label,three readers agree
+269765,Vitamin E,unit_1000x,15,mcg,100,15,mcg,100,label printed as stored (label inconsistency),author review of reader disagreement
+12550,Potassium,unit_1000x,153,g,4,153,mg,4,database differs from label,three readers agree
+38566,Vitamin B12,unit_1000x,50,mg,833,50,mcg,833,database differs from label,three readers agree
+6358,Chromium,unit_1000x,50,mg,42,50,mcg,42,database differs from label,three readers agree
+205036,Thiamine,unit_1000x,75,mcg,6250,75,mg,6250,database differs from label,three readers agree
+298374,Vitamin E,unit_1000x,15,mcg,100,15,mg,100,database differs from label,three readers agree
+183889,Pantothenic Acid,unit_1000x,250,mcg,2500,250,mg,2500,database differs from label,three readers agree
+272648,Chromium,unit_1000x,210,mg,600,210,mcg,600,database differs from label,three readers agree
+19982,Molybdenum,unit_1000x,3.5,mg,5,,mcg,6,unresolved,three readers agree
+206778,Potassium,unit_1000x,99,mcg,2,99,mg,2,database differs from label,three readers agree; author spot check
+272304,Vitamin B12,unit_1000x,500,mg,20833,500,mcg,20833,database differs from label,three readers agree
+264692,Zinc,unit_1000x,8,mcg,73,8,mg,73,database differs from label,three readers agree
+333880,Chromium,unit_1000x,100,mg,286,100,mcg,286,database differs from label,three readers agree
+12551,Potassium,unit_1000x,153,g,4,153,mg,4,database differs from label,three readers agree
+276060,Vitamin B12,unit_1000x,10000,mcg,417,10000,mcg,417,label printed as stored (label inconsistency),three readers agree
+243726,Vitamin B6,unit_1000x,0.03,mcg,2,0.03,mg,2,database differs from label,three readers agree
+26166,Vitamin B6,unit_1000x,2,mcg,143,2,mg,100,database differs from label,three readers agree
+64821,Chloride,unit_1000x,72,mcg,2,72,mg,2,database differs from label,three readers agree
+246165,Vitamin D,unit_1000x,20,mg,100,10,mcg,67,database differs from label,three readers agree
+250600,Riboflavin,unit_1000x,2,mcg,118,2,mg,118,database differs from label,three readers agree
+27008,Vitamin B12,unit_1000x,50,mg,833,50,mcg,833,database differs from label,three readers agree
+320781,Selenium,unit_1000x,55,mg,100,55,mcg,100,database differs from label,three readers agree
+3280,Thiamine,unit_1000x,30,mcg,2000,30,mg,"2,000",database differs from label,three readers agree; author spot check
+252951,Vitamin B12,unit_1000x,87,mcg,3,87,mcg,3,label printed as stored (label inconsistency),three readers agree
+204810,Vitamin E,unit_1000x,15.8,mcg,105,15.8,mg,105,database differs from label,three readers agree
+328204,Biotin,unit_1000x,50,mg,167,50,mcg,167,database differs from label,three readers agree; author spot check
+69299,Vitamin B12,unit_1000x,1000,mcg,16.667,500,mcg,8333,unresolved,three readers agree
+7947,Pantothenic Acid,unit_1000x,20,mcg,200,20,mg,200,database differs from label,three readers agree
+257632,Vitamin D,unit_1000x,5,mg,25,5,mg,25,label printed as stored (label inconsistency),three readers agree
+335386,Iodine,unit_1000x,50,mg,33,50,mcg,33,database differs from label,three readers agree
+248001,Vitamin E,unit_1000x,20,mcg,133,20,mcg,133,label printed as stored (label inconsistency),three readers agree
+40833,Manganese,unit_1000x,0.67,mcg,34,0.67,mg,34,database differs from label,three readers agree; author spot check
+38918,Chromium,unit_1000x,200,mg,167,200,mcg,167,database differs from label,three readers agree
+2052,Folic Acid,unit_1000x,200,mg,50,200,mg,50,label printed as stored (label inconsistency),three readers agree
+1946,Vitamin C,unit_1000x,60,g,100,60,mg,100,database differs from label,three readers agree
+45910,Magnesium,unit_1000x,40,mcg,10,40,mg,10,database differs from label,three readers agree
+228007,Pantothenic Acid,unit_1000x,50,mcg,1000,50,mg,1000,database differs from label,three readers agree
+81748,Iron,unit_1000x,18,mcg,100,18,mcg,100,label printed as stored (label inconsistency),three readers agree
+47099,Vitamin B12,unit_1000x,225,mg,3750,225,mcg,3750,database differs from label,three readers agree
+295516,Vitamin B6,unit_1000x,25,mcg,1471,25,mg,1471,database differs from label,three readers agree
+1879,Vitamin B12,unit_1000x,160,mg,2666,160,mg,2666,label printed as stored (label inconsistency),three readers agree
+34130,Vitamin B12,unit_1000x,100,mg,1666,100,mg,1666,label printed as stored (label inconsistency),three readers agree
+9397,Magnesium,unit_1000x,190,mcg,48,190,mg,48,database differs from label,three readers agree
+2054,Vitamin A,unit_1000x,1.25,IU,25,1250,IU,25,unresolved,three readers agree
+204266,Vitamin D3,unit_1000x,16.7,mg,83,16.7,mcg,83,database differs from label,three readers agree
+275153,Folic Acid,unit_1000x,240,mg,60,240,mcg,60,database differs from label,three readers agree
+5126,Pantothenic Acid,unit_1000x,300,mcg,3000,300,mcg,"3,000",label printed as stored (label inconsistency),author review of reader disagreement
+81167,Calcium,unit_1000x,733,mcg,73,733,mcg,73,label printed as stored (label inconsistency),three readers agree
+6975,Phosphorous,unit_1000x,20,mcg,2,20,mcg,2,label printed as stored (label inconsistency),author review of reader disagreement
+69733,Niacin,unit_1000x,500,mg,3,500,mcg,3,database differs from label,three readers agree
+256964,Vitamin C,unit_1000x,60,mcg,67,60,mg,67,database differs from label,three readers agree
+258661,Vitamin A,unit_1000x,3.2,mcg RAE,356,3.2,mgRAE,356,database differs from label,three readers agree
+29063,Chromium,unit_1000x,8.3,mg,7,8.3,mcg,7,database differs from label,three readers agree
+41496,Iodine,unit_1000x,150,mg,100,150,mcg,100,database differs from label,three readers agree
+4328,Folic Acid,unit_1000x,400,mg,100,400,mcg,100,database differs from label,three readers agree; author spot check
+3036,Vitamin B6,unit_1000x,61.5,mg,3.075,61.5,mg,3075,label printed as stored (label inconsistency),three readers agree
+206305,Biotin,unit_1000x,300,mg,100,300,mcg,100,database differs from label,three readers agree
+332878,Vitamin B12,unit_1000x,15,mg,625,15,mcg,625,database differs from label,three readers agree
+212200,Vitamin D,unit_1000x,7.5,mg,50,7.5,mcg,50,database differs from label,three readers agree; author spot check
+49547,Biotin,unit_1000x,1000,mg,333,1000,mcg,333,database differs from label,three readers agree
+247263,Biotin,unit_1000x,60,mg,40,60,mg,40,label printed as stored (label inconsistency),author review of reader disagreement
+258652,Vitamin D3,unit_1000x,13.5,mg,68,13.5,mcg,68,database differs from label,three readers agree
+277605,Vitamin B6,unit_1000x,5,mcg,294,5,mg,294,database differs from label,three readers agree; author spot check
+277703,Biotin,unit_1000x,6000,mg,20000,6000,mcg,20000,database differs from label,three readers agree
+303100,Vitamin D3,unit_1000x,8,mg,40,8,mcg,40,database differs from label,three readers agree
+308308,Chromium,unit_1000x,70,mg,200,70,mcg,200,database differs from label,three readers agree
+267775,Thiamine,unit_1000x,0.3,mcg,25,0.3,mg,25,database differs from label,three readers agree
+233046,Vitamin C,unit_1000x,1.067,mg,1186,1.067,g,1186,database differs from label,three readers agree
+33335,Chromium,unit_1000x,25,mg,100,25,mcg,100,database differs from label,three readers agree
+288129,Riboflavin,unit_1000x,30,mcg,2308,30,mg,2308,database differs from label,three readers agree; author spot check
+251473,Riboflavin,unit_1000x,0.325,mcg,25,0.325,mg,25,database differs from label,three readers agree
+35355,Molybdenum,unit_1000x,75,mg,100,75,mcg,100,database differs from label,three readers agree
+328589,Vitamin B12,unit_1000x,33,mg,556,33,mg,556,label printed as stored (label inconsistency),three readers agree
+66609,Chromium,unit_1000x,200,mg,167,200,mcg,167,database differs from label,three readers agree
+266528,Iron,unit_1000x,1.5,mcg,8,1.5,mg,8,database differs from label,three readers agree
+243811,Iodine,unit_1000x,150,mg,100,150,mcg,100,database differs from label,three readers agree
+242149,Magnesium,unit_1000x,50,mcg,12,50,mg,12,database differs from label,three readers agree
+71392,Magnesium,unit_1000x,20,mcg,5,20,mcg,5,label printed as stored (label inconsistency),three readers agree
+223039,Biotin,unit_1000x,10,mg,20,10,mg,20,label printed as stored (label inconsistency),three readers agree
+202176,Vitamin D,unit_1000x,3.3,mg,17,3.3,mcg,17,database differs from label,three readers agree
+307952,Vitamin B1,unit_1000x,38,mg,2,38,mg,2,label printed as stored (label inconsistency),three readers agree
+38402,Vitamin B6,unit_1000x,5,mcg,250,5,mg,250,database differs from label,three readers agree
+207699,Vitamin B6,unit_1000x,10.5,mcg,618,10.5,mg,618,database differs from label,three readers agree
+266133,ChromeMate,unit_1000x,160,mg,133,160,mcg,133,database differs from label,three readers agree
+36676,Vitamin B12,unit_1000x,1000,mg,16667,1000,mcg,"16,667",database differs from label,three readers agree; author spot check
+261079,Vitamin B12,unit_1000x,12.5,mg,521,12.5,mcg,521,database differs from label,three readers agree
+80196,Vit. E,unit_1000x,120,mcg,800,120,mcg,800,label printed as stored (label inconsistency),author review of reader disagreement
+248355,Vitamin D3,unit_1000x,50,mg,250,50,mcg,250,database differs from label,three readers agree; author spot check
+50162,Iodine,unit_1000x,67.5,mg,45,67.5,mcg,45,database differs from label,three readers agree
+327719,Pantothenic Acid,unit_1000x,6.8,mcg,136,6.8,mg,136,database differs from label,three readers agree
+262694,Vitamin B12,unit_1000x,12.5,mg,521,12.5,mcg,521,database differs from label,three readers agree
+331450,Vitamin B12,unit_1000x,2.6,mg,108,2.6,mg,108,label printed as stored (label inconsistency),author review of reader disagreement
+27807,Molybdenum,unit_1000x,75,mg,100,75,mg,100,label printed as stored (label inconsistency),author review of reader disagreement
+49991,Chromium,unit_1000x,200,mg,167,200,mcg,167,database differs from label,three readers agree
+252266,Iron,unit_1000x,9,mcg,50,9,mcg,50,label printed as stored (label inconsistency),author review of reader disagreement
+29655,Pantothenic Acid,unit_1000x,20,mcg,200,20,mg,200,database differs from label,three readers agree
+303186,Vitamin B12,unit_1000x,87,mcg,3,87,mcg,3,label printed as stored (label inconsistency),three readers agree
+323145,Biotin,unit_1000x,2000,mg,6667,2000,mcg,6667,database differs from label,three readers agree
+304382,Manganese,unit_1000x,0.66,mcg,33,0.66,mcg,33,label printed as stored (label inconsistency),three readers agree
+175077,Pantothenic Acid,unit_1000x,20,mcg,200,20,mcg,200,label printed as stored (label inconsistency),three readers agree
+272547,Riboflavin,unit_1000x,40,mcg,3077,40,mg,3077,database differs from label,three readers agree
+69584,Iodine,unit_1000x,150,mg,100,150,mcg,100,database differs from label,three readers agree
+256373,Pantothenic Acid,unit_1000x,10,mcg,200,10,mg,200,database differs from label,three readers agree
+230256,Biotin,unit_1000x,5000,mcg,16.6,5000,mcg,16.6,label printed as stored (label inconsistency),three readers agree
+252786,Vitamin D3,unit_1000x,125,mg,625,125,mcg,625,database differs from label,three readers agree; author spot check
+273629,Folic Acid,unit_1000x,200,mg,50,200,mcg,50,database differs from label,three readers agree; author spot check
+9420,Pantothenic Acid,unit_1000x,38,mcg,380,38,mg,380,database differs from label,three readers agree
+185030,Molybdenum,unit_1000x,37.5,mg,83,37.5,mcg,83,database differs from label,three readers agree
+273876,Vitamin D,unit_1000x,1.25,mg,6,1.25,mcg,6,database differs from label,three readers agree
+37740,Vitamin B12,unit_1000x,500,mcg,8.333,500,mcg,8333,label printed as stored (label inconsistency),three readers agree
+29463,Biotin,unit_1000x,100,mg,33,100,mcg,33,database differs from label,three readers agree
+295217,Vitamin C,unit_1000x,500,mcg,833,500,mcg,833,label printed as stored (label inconsistency),three readers agree
+17096,Selenium,unit_1000x,70,mg,100,70,mg,100,label printed as stored (label inconsistency),three readers agree
+234770,Vitamin E,unit_1000x,14.4,mcg,96,14.4,µg,96,label printed as stored (label inconsistency),three readers agree
+323215,Folate,unit_1000x,19,mg,5,19,mg,5,label printed as stored (label inconsistency),three readers agree
+326006,Potassium,unit_1000x,140,mcg,3,580,mg,12,database differs from label,three readers agree
+304382,Vitamin K1,unit_1000x,10,mg,13.2,10,mcg,13.2,database differs from label,author review of reader disagreement
+223005,Vitamin C,unit_1000x,300,mcg,375,300,mg,375,database differs from label,three readers agree
+49294,Vitamin B6,unit_1000x,100,mcg,5000,100,mg,5000,database differs from label,three readers agree; author spot check
+276385,Vitamin B12,unit_1000x,6,mg,250,6,mcg,250,database differs from label,three readers agree
+223288,Vitamin D3,unit_1000x,10,mg,67,10,mg,67,label printed as stored (label inconsistency),three readers agree
+288559,Manganese,unit_1000x,4.5,mcg,196,4.5,mg,196,database differs from label,three readers agree
+284995,Vitamin A,unit_1000x,375,mg,42,375,mcg,42,database differs from label,three readers agree; author spot check
+37741,Vitamin B12,unit_1000x,500,mcg,8.333,500,mcg,8333,label printed as stored (label inconsistency),three readers agree
+176426,Vitamin B12,unit_1000x,2,mg,83,2,mg,83,label printed as stored (label inconsistency),three readers agree
+19101,Vitamin B6,unit_1000x,2,mcg,100,2,mcg,100,label printed as stored (label inconsistency),three readers agree
+223563,Vitamin D3,unit_1000x,100,mg,660,100,mg,660,label printed as stored (label inconsistency),three readers agree
+246201,Iodine,unit_1000x,37.5,mg,25,37.5,mcg,25,database differs from label,three readers agree
+248663,Vitamin B12,unit_1000x,250,mg,10417,250,mcg,10417,database differs from label,three readers agree
+209562,Folate,unit_1000x,5,mcg DFE,1250,5,mg DFE,1250,database differs from label,three readers agree
+27287,Calcium,unit_1000x,750,mcg,75,750,mg,75,database differs from label,three readers agree
+333849,Vitamin B6,unit_1000x,0.2,mcg,12,0.2,mg,12,database differs from label,three readers agree; author spot check
+49989,Chromium,unit_1000x,20,mg,17,20,mcg,17,database differs from label,three readers agree
+60388,Iodine,unit_1000x,36,mg,17,36,mg,17,label printed as stored (label inconsistency),three readers agree
+38848,organic Folic Acid,unit_1000x,340,mg,85,340,mcg,85,database differs from label,three readers agree
+16861,Molybdenum,unit_1000x,56,mg,75,56,mcg,75,database differs from label,three readers agree
+76632,Selenium,unit_1000x,225,mg,321,225,MCG,321,database differs from label,three readers agree
+262784,Selenium,unit_1000x,25,mg,36,25,mcg,36,database differs from label,three readers agree
+204857,Biotin,unit_1000x,5000,mg,16667,5000,mcg,16667,database differs from label,three readers agree
+268728,Chromium,unit_1000x,120,mg,100,120,mcg,100,database differs from label,three readers agree
+239957,Selenium,unit_1000x,35,mg,30,35,mg,30,label printed as stored (label inconsistency),three readers agree
+42566,Niacin,unit_1000x,0.475,mcg,2,.475,mg,2,database differs from label,three readers agree; author spot check
+3216,Molybdenum,unit_1000x,100,mg,135,100,mg,135,label printed as stored (label inconsistency),author review of reader disagreement
+319429,Biotin,unit_1000x,35,mg,117,35,mcg,117,database differs from label,three readers agree
+210576,Vitamin C,unit_1000x,300,mcg,333,300,mg,333,database differs from label,three readers agree; author spot check
+18989,Chromium,unit_1000x,35,mg,29,35,mcg,29,database differs from label,three readers agree; author spot check
+66380,Magnesium,unit_1000x,125,mcg,31,125,mg,31,database differs from label,three readers agree
+260671,Chromium,unit_1000x,150,mg,125,150,mcg,125,database differs from label,three readers agree
+178368,Calcium,unit_1000x,1000,mcg,77,1000,mg,77,database differs from label,three readers agree; author spot check
+309215,Vitamin E,unit_1000x,33.5,mcg,223,33.5,mcg,223,label printed as stored (label inconsistency),author review of reader disagreement
+251492,Iodine,unit_1000x,150,mg,100,150,mcg,100,database differs from label,three readers agree
+180857,Manganese,unit_1000x,130,mg,7,130,mg,7,label printed as stored (label inconsistency),three readers agree
+263365,Vitamin B12,unit_1000x,0.5,mg,25,0.5,mg,25,label printed as stored (label inconsistency),three readers agree
+305099,Calcium,unit_1000x,150,mcg,12,150,mg,12,database differs from label,three readers agree
+7914,Iron,unit_1000x,0.4,g,2,0.4,mg,2,database differs from label,three readers agree
+237141,Manganese,unit_1000x,2,mcg,87,2,mg,87,database differs from label,three readers agree
+255886,Vitamin B6,unit_1000x,50,mcg,2941,50,mg,2941,database differs from label,three readers agree
+31063,Molybdenum,unit_1000x,75,mg,100,75,mg,100,label printed as stored (label inconsistency),three readers agree
+244513,Choline,unit_1000x,40,mcg,8,40,mcg,8,label printed as stored (label inconsistency),author review of reader disagreement
+252108,Vitamin E,unit_1000x,13.5,mcg,90,13.5,mg,90,database differs from label,three readers agree
+65494,Selenium,unit_1000x,250,mg,357,250,mcg,357,database differs from label,three readers agree
+79824,Calcium,unit_1000x,500,mcg,50,500,mg,50,database differs from label,three readers agree
+261150,Selenium,unit_1000x,17.5,mg,25,17.5,ml,25,database differs from label,three readers agree; author spot check
+317080,Thiamine,unit_1000x,0.3,mcg,25,0.3,mg,25,database differs from label,three readers agree
+317076,Thiamine,unit_1000x,0.3,mcg,25,0.3,mg,25,database differs from label,three readers agree
+268959,Folate,unit_1000x,2000,mg,500,2000,mcg,500,database differs from label,three readers agree
+41428,Iodine,unit_1000x,150,mg,100,150,mcg,100,database differs from label,three readers agree
+41832,Selenium,unit_1000x,225,mg,321,225,MCG,321,database differs from label,three readers agree
+179004,Folic Acid,unit_1000x,350,mg,88,350,mcg,88,database differs from label,three readers agree
+316414,Manganese,unit_1000x,5,mcg,217,5,mg,217,database differs from label,three readers agree
+310234,Folic Acid,unit_1000x,240,mg,60,400,mcg DFE,100,database differs from label,three readers agree
+274824,Biotin,unit_1000x,700,mg,2333,700,mcg,2333,database differs from label,three readers agree
+264559,Biotin,unit_1000x,300,mg,1000,300,mcg,1000,database differs from label,three readers agree
+4363,Manganese,unit_1000x,10,mcg,500,10,mg,500,database differs from label,three readers agree
+14320,Selenium,unit_1000x,100,mg,143,100,mcg,143,database differs from label,three readers agree
+299118,Magnesium,unit_1000x,80,mcg,19,80,mg,19,database differs from label,three readers agree
+247918,Vitamin B12,unit_1000x,500,mg,8333,500,mcg,8333,database differs from label,three readers agree
+278697,Vitamin B12,unit_1000x,12,mg,429,12,mcg,429,database differs from label,author review of reader disagreement
+208947,Vitamin E,unit_1000x,13.4,mcg,89,13.4,mg,89,database differs from label,three readers agree
+27281,Zinc,unit_1000x,1.3,mcg,16,1.3,mg,16,database differs from label,three readers agree
+2489,Thiamine,unit_1000x,0.4,mcg,25,0.4,mcg,25,label printed as stored (label inconsistency),author review of reader disagreement
+623,Vitamin B12,unit_1000x,1,g,16667,1,g,16667,label printed as stored (label inconsistency),three readers agree
+80196,Vit. K,unit_1000x,65,mg,54,65,mg,54,label printed as stored (label inconsistency),three readers agree
+41228,Manganese,unit_1000x,0.67,mcg,34,0.67,mg,34,database differs from label,three readers agree
+38528,Copper,unit_1000x,1.5,mcg,75,1.5,mg,75,database differs from label,three readers agree
+3036,Thiamine,unit_1000x,60.8,mg,4.053,60.8,mg,4053,label printed as stored (label inconsistency),three readers agree
+329942,Vitamin B6,unit_1000x,2.5,mcg,147,2.5,mcg,147,label printed as stored (label inconsistency),three readers agree
+306134,Vitamin E,unit_1000x,201,mcg,1340,201,mg,1340,database differs from label,three readers agree
+71300,Vitamin K,unit_1000x,47,mg,60,47,mcg,60,database differs from label,three readers agree
+255463,Vitamin D3,unit_1000x,62.5,mg,312,62.5,MCG,312,database differs from label,three readers agree
+259717,Iron,unit_1000x,2.5,mcg,13,2.5,mcg,13,label printed as stored (label inconsistency),three readers agree
+65811,Iron,unit_1000x,18,mcg,100,18,mg,100,database differs from label,three readers agree
+251244,Vitamin D3,unit_1000x,20,mg,133,20,mcg,100,database differs from label,three readers agree
+260310,Vitamin B-3,decimal_10x,8,mg,4,8,mg,4,label printed as stored (label inconsistency),three readers agree
+298502,Magnesium,decimal_10x,100,mg,125,100,mg,125,not an error (%DV based on a children's Daily Value),author review of reader disagreement
+34124,Folate,decimal_10x,8000,mcg,200,800,mcg,200,database differs from label,three readers agree
+294050,Magnesium,decimal_10x,20,mg,25,20,mg,25,label printed as stored (label inconsistency),three readers agree
+238778,Vitamin B6,decimal_10x,0.4,mg,133,0.4,mg,133,label printed as stored (label inconsistency),three readers agree
+15947,Zinc,decimal_10x,115,mg,153,115,mg,153,label printed as stored (label inconsistency),three readers agree
+38545,Thiamine,decimal_10x,15,mg,100,15,mg,1000,database differs from label,three readers agree
+201467,Vitamin B12,decimal_10x,0.4,mcg,100,0.4,mcg,100,label printed as stored (label inconsistency),three readers agree
+335458,Pantothenic Acid,decimal_10x,50,mg,100,50,mg,1000,database differs from label,three readers agree
+181149,Vitamin B12,decimal_10x,200,mcg,333,200,mcg,333,label printed as stored (label inconsistency),author review of reader disagreement
+9908,Calcium,decimal_10x,240,mg,3,240,mg,3,label printed as stored (label inconsistency),three readers agree
+246453,Vitamin B6,decimal_10x,0.4,mg,133,0.4,mg,133,label printed as stored (label inconsistency),three readers agree
+263437,Vitamin C,decimal_10x,20,mg,2,20,mg,2,label printed as stored (label inconsistency),three readers agree
+35390,Zinc,decimal_10x,2,mg,2,2,mg,2,label printed as stored (label inconsistency),three readers agree
+306111,Ferrous Bisglycinate Chelate,decimal_10x,15.7,mg,17,15.7,mg,17,label printed as stored (label inconsistency),three readers agree
+241419,Magnesium,decimal_10x,15,mg,19,7.5,mg,10,database differs from label,three readers agree
+228173,Vitamin B2,decimal_10x,21,mcg,16,21,mcg,16,label printed as stored (label inconsistency),three readers agree
+274147,Vitamin K2,decimal_10x,45,mcg,368,45,mcg,38,database differs from label,three readers agree
+177785,Vitamin D,decimal_10x,1000,IU,25,100,IU,25,database differs from label,three readers agree
+251088,Vitamin B6,decimal_10x,10,mg,50,10,mg,50,label printed as stored (label inconsistency),three readers agree
+220889,Magnesium,decimal_10x,4,mg,5,4,mg,5,label printed as stored (label inconsistency),three readers agree
+254912,Vitamin E,decimal_10x,1005,mg,670,100.5,mg,670,database differs from label,three readers agree
+1603,Vitamin E,decimal_10x,5,IU,100,5,I.U.,100,label printed as stored (label inconsistency),three readers agree
+245716,Calcium,decimal_10x,20,mg,13,20,mg,13,label printed as stored (label inconsistency),three readers agree
+70962,Folate,decimal_10x,120,mcg,300,1200,mcg,300,database differs from label,three readers agree
+174396,Folate,decimal_10x,50,mcg,63,50,mcg,63,label printed as stored (label inconsistency),three readers agree
+1958,Vitamin B6,decimal_10x,20,mg,100,20,mg,100,label printed as stored (label inconsistency),three readers agree
+249615,Magnesium,decimal_10x,10,mg,13,10,mg,13,label printed as stored (label inconsistency),three readers agree
+19773,Vitamin D3,decimal_10x,4001,IU,100,400,IU,100,database differs from label,three readers agree
+205673,Copper,decimal_10x,13.2,mg,100,13%2,mg,100,unresolved,author review of reader disagreement
+11251,Calcium,decimal_10x,200,mg,2,200,mg,2,label printed as stored (label inconsistency),three readers agree
+268889,Chromium,decimal_10x,120,mcg,10,120,mcg,100,database differs from label,three readers agree
+261347,Vitamin B6,decimal_10x,8,mg,40,8,mg,40,label printed as stored (label inconsistency),three readers agree
+274961,Magnesium Citrate,decimal_10x,833,mg,28.96,833,mg,28.96,label printed as stored (label inconsistency),three readers agree
+203827,Copper,decimal_10x,1,mg,5,1,mg,50,database differs from label,three readers agree
+283094,Vitamin D,decimal_10x,125,mcg,62,125,mcg,625,database differs from label,three readers agree
+33432,Vitamin B6,decimal_10x,40,mg,200,40,mg,2000,database differs from label,three readers agree
+29928,Thiamine,decimal_10x,0.5,mg,5,0.5,mg,5,label printed as stored (label inconsistency),three readers agree
+249150,Manganese,decimal_10x,4,mg,17,4,mg,170,database differs from label,three readers agree
+329791,Folate,decimal_10x,400,mcg DFE,800,400,mcg DFE,100,database differs from label,three readers agree
+83118,Manganese,decimal_10x,133,mcg,68,133,mcg,66,database differs from label,three readers agree
+4114,Zinc,decimal_10x,111,mg,73,11,mg,73,database differs from label,three readers agree
+36948,Vitamin B12,decimal_10x,6,mcg,10,6,mcg,100,database differs from label,three readers agree
+24512,Copper,decimal_10x,1.5,mg,5,1.5,mg,5,label printed as stored (label inconsistency),three readers agree
+71714,Vitamin A,decimal_10x,1450,IU,180,1450,IU,180,label printed as stored (label inconsistency),three readers agree
+270337,Magnesium,decimal_10x,5.5,mg,20,?,mg,20,unresolved,author review of reader disagreement
+296618,Vitamin D3,decimal_10x,188,mcg,90,18,mcg,90,database differs from label,three readers agree
+49838,Magnesium,decimal_10x,5,mg,7,5,mg,7,label printed as stored (label inconsistency),three readers agree
+5914,Potassium,decimal_10x,10,mg,5,10,mg,5,label printed as stored (label inconsistency),three readers agree
+210072,Iron,decimal_10x,360,mcg,20,360,mcg,20,label printed as stored (label inconsistency),three readers agree
+247918,Vitamin B6,decimal_10x,75,mg,375,7.5,mg,375,database differs from label,three readers agree
+19619,Zinc,decimal_10x,10,mg,13,10,mg,13,label printed as stored (label inconsistency),three readers agree
+204730,Magnesium,decimal_10x,10,mg,13,10,mg,2,database took %DV from another column,author review of reader disagreement
+332883,Magnesium,decimal_10x,6.3,mg,8,6.3,mg,8,label printed as stored (label inconsistency),three readers agree
+4982,Vitamin E,decimal_10x,5,IU,100,5,IU,100,label printed as stored (label inconsistency),three readers agree
+311944,Biotin,decimal_10x,10000,mcg,333330,10000,mcg,333330,label printed as stored (label inconsistency),three readers agree
+283203,Magnesium,decimal_10x,10,mg,13,10,mg,13,label printed as stored (label inconsistency),three readers agree
+64333,Vitamin C,decimal_10x,200,mg,3333,2000,mg,3333,database differs from label,three readers agree
+267344,Zinc,decimal_10x,90,mg,100,11,mg,100,database differs from label,three readers agree
+247753,Thiamine,decimal_10x,1.5,mg,10,1.5,mg,100,database differs from label,three readers agree
+37087,Folic Acid,decimal_10x,1,mg,20,1,mg,200,database differs from label,three readers agree
+178319,Magnesium,decimal_10x,30,mg,43,25,mg,6,database differs from label,three readers agree
+259064,Vitamin D3,decimal_10x,1.6,mg,400,1.6,mg,400,label printed as stored (label inconsistency),three readers agree
+263348,Vitamin D,decimal_10x,40,IU,100,400,IU,100,database differs from label,three readers agree
+203028,D-Biotin,decimal_10x,150,mcg,5,150,mcg,5,label printed as stored (label inconsistency),three readers agree
+80149,Vitamin B6,decimal_10x,350,mg,1250,350,mg,1250,label printed as stored (label inconsistency),three readers agree
+239971,Magnesium,decimal_10x,50,mg,63,50,mg,63,not an error (%DV based on a children's Daily Value),author review of reader disagreement
+45680,Chromium,decimal_10x,200,mcg,12,200,mcg,12,label printed as stored (label inconsistency),three readers agree
+241419,Vitamin B6,decimal_10x,1,mg,333,1,mg,333,label printed as stored (label inconsistency),three readers agree
+278336,Magnesium,decimal_10x,20,mg,25,20,mg,25,label printed as stored (label inconsistency),three readers agree
+304155,Folate,decimal_10x,800,mcg,20,800,mcg,200,database differs from label,three readers agree
+30355,Calcium Orotate,decimal_10x,1100,mg,12,1100,mg,12,label printed as stored (label inconsistency),three readers agree
+63388,Pantothenic Acid,decimal_10x,500,mg,500,500,mg,5000,database differs from label,three readers agree
+298859,Magnesium,decimal_10x,75,mg,94,75,mg,94,label printed as stored (label inconsistency),three readers agree
+315926,Vitamin D,decimal_10x,10,mcg,5,10,mcg,5,label printed as stored (label inconsistency),three readers agree
+29071,Magnesium,decimal_10x,2.4,mg,9.06,2.4,mg,0.06,database differs from label,three readers agree
+311330,Potassium,decimal_10x,20,mg,6,20,mg,6,label printed as stored (label inconsistency),three readers agree
+206749,Vitamin B6,decimal_10x,20,mg,200,20,mg,200,label printed as stored (label inconsistency),three readers agree
+256009,Riboflavin,decimal_10x,5,mg,2059,5,MG,2059,label printed as stored (label inconsistency),author review of reader disagreement
+249371,Vitamin B1,decimal_10x,15,mg,100,15,mg,1000,database differs from label,three readers agree
+261841,Vitamin B6,decimal_10x,100,mg,500,100,mg,500,label printed as stored (label inconsistency),three readers agree
+5563,Magnesium,decimal_10x,50,mg,2,50,mg,2,label printed as stored (label inconsistency),three readers agree
+2499,Vitamin K,decimal_10x,20,mg,1000,20,mg,1000,label printed as stored (label inconsistency),three readers agree
+8986,Vitamin E,decimal_10x,2.01,mg,93,2.01,mg,93,label printed as stored (label inconsistency),three readers agree
+252015,Vitamin B6,decimal_10x,50,mcg,37,50,mcg,37,label printed as stored (label inconsistency),three readers agree
+277297,Molybdenum,decimal_10x,15,mcg,3,15,mcg,3,label printed as stored (label inconsistency),three readers agree
+21132,Potassium,decimal_10x,90,mg,14,90,mg,3,database differs from label,three readers agree
+251829,Vitamin B6,decimal_10x,20,mg,100,20,mg,?,unresolved,author review of reader disagreement
+222830,Calcium,decimal_10x,7228,mg,70,7228,mg,70,label printed as stored (label inconsistency),three readers agree
+181686,Folate,decimal_10x,266,mcg,667,266,mcg,667,label printed as stored (label inconsistency),three readers agree
+223197,Biotin,decimal_10x,10,mg,333333,10,mg,"33,3333",label printed as stored (label inconsistency),author review of reader disagreement
+20781,Vitamin D,decimal_10x,19,IU,35,19,IU,4,database differs from label,three readers agree
+264517,Choline,decimal_10x,600,mg,16,600,mg,16,label printed as stored (label inconsistency),three readers agree
+55350,Vitamin D3,decimal_10x,1000,IU,25,1000,i.u.,25,label printed as stored (label inconsistency),three readers agree
+328200,Calcium,decimal_10x,200,mg,222,60,mg,5,database differs from label,three readers agree
+279099,Vitamin D3,decimal_10x,100,mcg,50,10,mcg,50,database differs from label,three readers agree
+245365,Thiamine,decimal_10x,3.3,mg,22,3.3,mg,220,database differs from label,three readers agree
+294614,Magnesium,decimal_10x,50,mg,63,50,mg,63,label printed as stored (label inconsistency),three readers agree
+5232,Calcium,decimal_10x,80,mg,80,800,mg,80,database differs from label,three readers agree
+238741,Zinc Gluconate,decimal_10x,150,mg,140,150,mg,140,label printed as stored (label inconsistency),three readers agree
